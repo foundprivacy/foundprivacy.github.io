@@ -17,8 +17,8 @@ title: Foundations of Privacy
 tagline: Course Website
 description: Foundations of Privacy
 author: Steven Wu, Giulia Fanti
-baseurl: '/foundprivacy' # the subpath of your site, e.g. /blog
-url: 'https://foundaprivacy.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: '/foundprivacy'	# the subpath of your site, e.g. /blog
+url: 'https://foundprivacy.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
