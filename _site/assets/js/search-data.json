@@ -2,193 +2,187 @@
     "doc": "Foundations of Privacy",
     "title": "18734 / 17731: Foundations of Privacy",
     "content": "Welcome to the course webpage! Some useful links: . | About this course | Announcements | Course calendar | Meet our course staff | . ",
-    "url": "/foundprivacy/index.html#18734--17731-foundations-of-privacy",
+    "url": "/index.html#18734--17731-foundations-of-privacy",
     "relUrl": "/index.html#18734--17731-foundations-of-privacy"
   },"1": {
     "doc": "Foundations of Privacy",
-    "title": "Getting Started",
-    "content": ". | Create a new repository based on Just the Class. | Update _config.yml and README.md with your course information. Be sure to update the url and baseurl. | Configure a publishing source for GitHub Pages. Your course website is now live! | Edit and create .md Markdown files to add more content pages. | . Just the Class has been used by instructors at Stanford University (CS 161), UC Berkeley (Data 100), UC Santa Barbara (CSW8), Northeastern University (CS4530/5500), and Carnegie Mellon University (17-450/17-950). Share your course website and find more examples in the show and tell discussion! . ",
-    "url": "/foundprivacy/index.html#getting-started",
-    "relUrl": "/index.html#getting-started"
-  },"2": {
-    "doc": "Foundations of Privacy",
     "title": "Foundations of Privacy",
     "content": " ",
-    "url": "/foundprivacy/index.html",
+    "url": "/index.html",
     "relUrl": "/index.html"
-  },"3": {
+  },"2": {
     "doc": "About",
     "title": "About",
     "content": " ",
-    "url": "/foundprivacy/about/",
+    "url": "/about/",
     "relUrl": "/about/"
-  },"4": {
+  },"3": {
     "doc": "About",
     "title": "Table of contents",
     "content": ". | Overview | Logistics | Prerequisites | Textbooks | Accommodations for Students with Disabilities | Diversity Statement | Communication | Grading | When Work is Due | Late Assignments | Special Accommodations | Health &amp; Wellness | . ",
-    "url": "/foundprivacy/about/#table-of-contents",
+    "url": "/about/#table-of-contents",
     "relUrl": "/about/#table-of-contents"
-  },"5": {
+  },"4": {
     "doc": "About",
     "title": "Overview",
     "content": "Privacy is a significant concern in modern society. Individuals share personal information with many different organizations - healthcare, financial and educational institutions, the census bureau, web services providers and online social networks - often in electronic form. Privacy violations occur when such personal information is inappropriately collected, shared or used. We will study privacy in a few settings where rigorous definitions and enforcement mechanisms are being developed. The primary focus of this course is differential privacy, a framework of designing data analysis algorithms with strong, meaningful, and mathematically provable privacy guarantees. We will survey a set of algorithmic tools that allow us to privately perform a wide range of statistical analyses and machine learning tasks. Of course, privacy does not come for free, and we will also study some of the fundamental limitations imposed by the requirement of differential privacy. We will also cover other topics related to privacy, including fairness and cryptography. ",
-    "url": "/foundprivacy/about/#overview",
+    "url": "/about/#overview",
     "relUrl": "/about/#overview"
-  },"6": {
+  },"5": {
     "doc": "About",
     "title": "Logistics",
     "content": ". | Course: Foundations of Privacy, Fall 2022 | Lecture Time: Fall 2021, 11:50AM–1:10PM EST, Mon &amp; Weds | Zoom Link: See Canvas | . ",
-    "url": "/foundprivacy/about/#logistics",
+    "url": "/about/#logistics",
     "relUrl": "/about/#logistics"
-  },"7": {
+  },"6": {
     "doc": "About",
     "title": "Prerequisites",
     "content": "This is a theory-oriented course, intended for graduate students and advanced undergraduates. The (informal) prerequisite is familiarity with probability, linear algebra, and introductory algorithms. Prior coursework in machine learning, algorithms, and probability will be helpful. ",
-    "url": "/foundprivacy/about/#prerequisites",
+    "url": "/about/#prerequisites",
     "relUrl": "/about/#prerequisites"
-  },"8": {
+  },"7": {
     "doc": "About",
     "title": "Textbooks",
     "content": "There is no need buy any textbook for this course. We will provide lecture notes in this course. In addition, we will frequently use the book The Algorithmic Foundations of Differential Privacy by Cynthia Dwork and Aaron Roth and The Complexity of Differential Privacy by Salil Vadhan. ",
-    "url": "/foundprivacy/about/#textbooks",
+    "url": "/about/#textbooks",
     "relUrl": "/about/#textbooks"
-  },"9": {
+  },"8": {
     "doc": "About",
     "title": "Accommodations for Students with Disabilities",
     "content": "If you have a disability and are registered with the Office of Disability Resources, we encourage you to use their online system to notify us of your accommodations and discuss your needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at access@andrew.cmu.edu. ",
-    "url": "/foundprivacy/about/#accommodations-for-students-with-disabilities",
+    "url": "/about/#accommodations-for-students-with-disabilities",
     "relUrl": "/about/#accommodations-for-students-with-disabilities"
-  },"10": {
+  },"9": {
     "doc": "About",
     "title": "Diversity Statement",
     "content": "It is our goal that students from all diverse backgrounds and perspectives are well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. Dimensions of diversity include race, age, national origin, ethnicity, gender identity and expression, intellectual and physical ability, sexual orientation, faith and non-faith perspectives, socio-economic class, political ideology, education, primary language, family status, military experience, cognitive style, and communication style. We are intentional in our aim to present materials and activities that are respectful of diversity, based on these dimensions and any other visible and invisible differences not captured in this list. Indeed, in this class you will learn to approach technology design from an empathetic, human-centered perspective that directly examines and challenges bias and inequality. Your suggestions for ensuring that the class lives up to these values are encouraged and welcomed. In addition, if at any time you experience or witness anything in this class that challenges inclusion, is insensitive or othering, or reinforces biases or stereotypes, please report those experiences (responses can be anonymous). ",
-    "url": "/foundprivacy/about/#diversity-statement",
+    "url": "/about/#diversity-statement",
     "relUrl": "/about/#diversity-statement"
-  },"11": {
+  },"10": {
     "doc": "About",
     "title": "Communication",
     "content": ". | Canvas: We will be using Canvas for all assignments and grades. Please also post all questions on Canvas as discussions instead of sending emails. | Email: If you email your instructors, you might want to include the substring “[FoundPriv Course]” to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. For example, you should post questions about course material and homework assignments on Canvas first, and then use emails only after an appropriate amount of time has passed without a response. Please use your CMU email account. | . ",
-    "url": "/foundprivacy/about/#communication",
+    "url": "/about/#communication",
     "relUrl": "/about/#communication"
-  },"12": {
+  },"11": {
     "doc": "About",
     "title": "Grading",
     "content": "| Percentage | Activity | . | 20% | In-class Activity Participation | . | 60% | Assignment 1-4, 15% each | . | 20% | Take-home final, 20% | . ",
-    "url": "/foundprivacy/about/#grading",
+    "url": "/about/#grading",
     "relUrl": "/about/#grading"
-  },"13": {
+  },"12": {
     "doc": "About",
     "title": "When Work is Due",
     "content": ". | Assignments are due on Sundays at 11:59pm. | . ",
-    "url": "/foundprivacy/about/#when-work-is-due",
+    "url": "/about/#when-work-is-due",
     "relUrl": "/about/#when-work-is-due"
-  },"14": {
+  },"13": {
     "doc": "About",
     "title": "Late Assignments",
     "content": "We realize that things happen, and that you might sometimes not be able to turn in your assignments. To accommodate this, you will each receive 5 free late days. Beyond those days, you receive a 5% penalty for each day late. You are welcome to budget late days as you like, for instance 3 free days late for one assignment, 2 for another, or all 5 for one. ",
-    "url": "/foundprivacy/about/#late-assignments",
+    "url": "/about/#late-assignments",
     "relUrl": "/about/#late-assignments"
-  },"15": {
+  },"14": {
     "doc": "About",
     "title": "Special Accommodations",
     "content": "If you have a disability and have an accommodation letter from the Disability Resources office, we encourage you to discuss your accommodations and needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at access@andrew.cmu.edu. ",
-    "url": "/foundprivacy/about/#special-accommodations",
+    "url": "/about/#special-accommodations",
     "relUrl": "/about/#special-accommodations"
-  },"16": {
+  },"15": {
     "doc": "About",
     "title": "Health &amp; Wellness",
     "content": "Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website at http://www.cmu.edu/counseling/. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night: . CaPS: 412-268-2922 . Re:solve Crisis Network: 888-796-8226 . ",
-    "url": "/foundprivacy/about/#health--wellness",
+    "url": "/about/#health--wellness",
     "relUrl": "/about/#health--wellness"
-  },"17": {
+  },"16": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
-    "url": "/foundprivacy/announcements/",
+    "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"18": {
+  },"17": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
-    "url": "/foundprivacy/announcements/",
+    "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"19": {
+  },"18": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Apr 1 &middot; 0 min read Hello world! . ",
-    "url": "/foundprivacy/announcements/",
+    "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"20": {
+  },"19": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": " ",
-    "url": "/foundprivacy/calendar/",
+    "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"21": {
+  },"20": {
     "doc": "Calendar",
     "title": "Introduction to Java",
     "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
-    "url": "/foundprivacy/calendar/#introduction-to-java",
+    "url": "/calendar/#introduction-to-java",
     "relUrl": "/calendar/#introduction-to-java"
-  },"22": {
+  },"21": {
     "doc": "Calendar",
     "title": "Basic Data Structures",
     "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "/foundprivacy/calendar/#basic-data-structures",
+    "url": "/calendar/#basic-data-structures",
     "relUrl": "/calendar/#basic-data-structures"
-  },"23": {
+  },"22": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
-    "url": "/foundprivacy/schedule/#weekly-schedule",
+    "url": "/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"24": {
+  },"23": {
     "doc": "Schedule",
     "title": "Monday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
-    "url": "/foundprivacy/schedule/",
+    "content": ". | Lecture 11:50 AM–1:10 PM BH A36 | Office Hour (Giulia/Steven) 3:15 PM–4:15 PM Zoom link on Canvas | . | ",
+    "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"25": {
+  },"24": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
-    "url": "/foundprivacy/schedule/",
+    "url": "/schedule/",
+    "relUrl": "/schedule/"
+  },"25": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 11:50 AM–1:10 PM BH A36 | . | ",
+    "url": "/schedule/",
     "relUrl": "/schedule/"
   },"26": {
     "doc": "Schedule",
-    "title": "Wednesday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
-    "url": "/foundprivacy/schedule/",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/schedule/",
     "relUrl": "/schedule/"
   },"27": {
     "doc": "Schedule",
-    "title": "Thursday",
-    "content": "| ",
-    "url": "/foundprivacy/schedule/",
+    "title": "Friday",
+    "content": ". | Recitation 12:20 PM–1:10 PM DH 1211 | . | . ",
+    "url": "/schedule/",
     "relUrl": "/schedule/"
   },"28": {
     "doc": "Schedule",
-    "title": "Friday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
-    "url": "/foundprivacy/schedule/",
-    "relUrl": "/schedule/"
-  },"29": {
-    "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
-    "url": "/foundprivacy/schedule/",
+    "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"30": {
+  },"29": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
-    "url": "/foundprivacy/staff/",
+    "url": "/staff/",
     "relUrl": "/staff/"
-  },"31": {
+  },"30": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Giulia Fanti . gfanti@andrew.cmu.edu . Steven Wu . zstevenwu@cmu.edu . ",
-    "url": "/foundprivacy/staff/#instructors",
+    "url": "/staff/#instructors",
     "relUrl": "/staff/#instructors"
   }
 }
