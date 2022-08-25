@@ -120,16 +120,16 @@
     "relUrl": "/calendar/"
   },"20": {
     "doc": "Calendar",
-    "title": "Introduction to Java",
-    "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
-    "url": "/calendar/#introduction-to-java",
-    "relUrl": "/calendar/#introduction-to-java"
+    "title": "Course Overview",
+    "content": "Aug 29 Course Overview Slides ",
+    "url": "/calendar/#course-overview",
+    "relUrl": "/calendar/#course-overview"
   },"21": {
     "doc": "Calendar",
-    "title": "Basic Data Structures",
-    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "/calendar/#basic-data-structures",
-    "relUrl": "/calendar/#basic-data-structures"
+    "title": "Privacy Attacks",
+    "content": "Aug 31 Reconstruction Attacks Note ",
+    "url": "/calendar/#privacy-attacks",
+    "relUrl": "/calendar/#privacy-attacks"
   },"22": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
@@ -184,5 +184,11 @@
     "content": "Giulia Fanti . gfanti@andrew.cmu.edu . Steven Wu . zstevenwu@cmu.edu . ",
     "url": "/staff/#instructors",
     "relUrl": "/staff/#instructors"
+  },"31": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Xin Gu . xingu@andrew.cmu.edu . Yuchen Shen . yuchens2@andrew.cmu.edu . ",
+    "url": "/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
   }
 }
