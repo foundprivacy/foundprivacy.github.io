@@ -39,6 +39,11 @@ schedule:
         location: BH A36
 
   - name: Thursday
+    events:
+      - name: Yuchen's Office Hour
+        start: 3:20 PM
+        end: 4:20 PM
+        location: Zoom link on Canvas
   - name: Friday
     events:
       - name: Recitation
