@@ -13,6 +13,14 @@ seo:
 Welcome to the course webpage! Some useful links:
 
 - [About](about.md) this course
-- [Announcements](announcements.md)
 - [Course calendar](calendar.md)
 - Meet our [course staff](staff.md)
+
+
+## Announcements
+
+
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
