@@ -45,5 +45,9 @@ schedule:
         start: 12:20 PM
         end: 1:10 PM
         location: DH 1211
+      - name: Xin's Office Hour
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Zoom link on Canvas
 
 ---
