@@ -67,7 +67,7 @@
   },"11": {
     "doc": "About",
     "title": "Grading",
-    "content": "| Percentage | Activity | . | 20% | In-class Activity Participation | . | 60% | Assignment 1-4, 15% each | . | 20% | Take-home final, 20% | . ",
+    "content": "| Percentage | Activity | . | 10% | In-class Activity Participation | . | 60% | Assignment 1-4, 15% each | . | 15% | Midterm | . | 15% | Final exam | . ",
     "url": "/about/#grading",
     "relUrl": "/about/#grading"
   },"12": {
@@ -121,13 +121,13 @@
   },"20": {
     "doc": "Calendar",
     "title": "Course Overview",
-    "content": "Aug 29 Course Overview Slides ",
+    "content": "Aug 29 Course Overview Slides, HW0 ",
     "url": "/calendar/#course-overview",
     "relUrl": "/calendar/#course-overview"
   },"21": {
     "doc": "Calendar",
     "title": "Privacy Attacks",
-    "content": "Aug 31 Reconstruction Attacks Note ",
+    "content": "Aug 31 Reconstruction Attacks Reading ",
     "url": "/calendar/#privacy-attacks",
     "relUrl": "/calendar/#privacy-attacks"
   },"22": {
@@ -175,7 +175,7 @@
   },"29": {
     "doc": "Staff",
     "title": "Staff",
-    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "content": " ",
     "url": "/staff/",
     "relUrl": "/staff/"
   },"30": {

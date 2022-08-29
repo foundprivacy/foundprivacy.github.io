@@ -122,9 +122,10 @@ sending emails.
 
 Percentage | Activity  | 
 ------|-----|
-20%| In-class Activity Participation|
+10%| In-class Activity Participation|
 60%| Assignment 1-4, 15% each|
-	20%| Take-home final, 20% |
+15%| Midterm |
+15%| Final exam |
 
 
 ## When Work is Due
