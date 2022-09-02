@@ -21,6 +21,9 @@
 * [Algorithmic Foundations of Data Privacy](https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html), taught by [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), Fall 2011
 * [Algorithmic Challenges in Data Privacy](http://www.cse.psu.edu/~ads22/privacy598/), taught by [Sofya Raskhodnikova](https://cs-people.bu.edu/sofya/) and [Adam Smith](https://cs-people.bu.edu/ads22/), Spring 2010
 
+## Math Background
+* [Resources for Math Background](http://www.cs.cmu.edu/~mgormley/courses/10601/slides/10601-math-resources.pdf), from [Introducation to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10601/index.html)
+* [Notes on Probability](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/prob.pdf), by [Peter J. Cameron](http://www-groups.mcs.st-andrews.ac.uk/~pjc/)
 
 ## Books and General Surveys
 * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), by [Cynthia Dwork](https://www.microsoft.com/en-us/research/people/dwork/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/)
