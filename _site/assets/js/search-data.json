@@ -12,206 +12,224 @@
     "relUrl": "/index.html#announcements"
   },"2": {
     "doc": "Foundations of Privacy",
+    "title": "Homework Announcement",
+    "content": "Sep 11 &middot; 0 min read Homework 1 posted on Canvas! . ",
+    "url": "/index.html",
+    "relUrl": "/index.html"
+  },"3": {
+    "doc": "Foundations of Privacy",
     "title": "Week 2 Announcement",
     "content": "Aug 31 &middot; 0 min read No class or office hour on Monday Sept 5th. Enjoy Labor Day! . ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"3": {
+  },"4": {
     "doc": "Foundations of Privacy",
     "title": "Week 1 Announcement",
     "content": "Aug 29 &middot; 0 min read Welcome to the Fall 2022 semester! . ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"4": {
+  },"5": {
     "doc": "Foundations of Privacy",
     "title": "Foundations of Privacy",
     "content": " ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"5": {
+  },"6": {
     "doc": "About",
     "title": "About",
     "content": " ",
     "url": "/about/",
     "relUrl": "/about/"
-  },"6": {
+  },"7": {
     "doc": "About",
     "title": "Table of contents",
     "content": ". | Overview | Logistics | Prerequisites | Textbooks | Accommodations for Students with Disabilities | Diversity Statement | Communication | Grading | When Work is Due | Late Assignments | Special Accommodations | Health &amp; Wellness | . ",
     "url": "/about/#table-of-contents",
     "relUrl": "/about/#table-of-contents"
-  },"7": {
+  },"8": {
     "doc": "About",
     "title": "Overview",
     "content": "Privacy is a significant concern in modern society. Individuals share personal information with many different organizations - healthcare, financial and educational institutions, the census bureau, web services providers and online social networks - often in electronic form. Privacy violations occur when such personal information is inappropriately collected, shared or used. We will study privacy in a few settings where rigorous definitions and enforcement mechanisms are being developed. The primary focus of this course is differential privacy, a framework of designing data analysis algorithms with strong, meaningful, and mathematically provable privacy guarantees. We will survey a set of algorithmic tools that allow us to privately perform a wide range of statistical analyses and machine learning tasks. Of course, privacy does not come for free, and we will also study some of the fundamental limitations imposed by the requirement of differential privacy. We will also cover other topics related to privacy, including fairness and cryptography. ",
     "url": "/about/#overview",
     "relUrl": "/about/#overview"
-  },"8": {
+  },"9": {
     "doc": "About",
     "title": "Logistics",
     "content": ". | Course: Foundations of Privacy, Fall 2022 | Lecture Time: Fall 2021, 11:50AM–1:10PM EST, Mon &amp; Weds | Zoom Link: See Canvas | . ",
     "url": "/about/#logistics",
     "relUrl": "/about/#logistics"
-  },"9": {
+  },"10": {
     "doc": "About",
     "title": "Prerequisites",
     "content": "This is a theory-oriented course, intended for graduate students and advanced undergraduates. The (informal) prerequisite is familiarity with probability, linear algebra, and introductory algorithms. Prior coursework in machine learning, algorithms, and probability will be helpful. ",
     "url": "/about/#prerequisites",
     "relUrl": "/about/#prerequisites"
-  },"10": {
+  },"11": {
     "doc": "About",
     "title": "Textbooks",
     "content": "There is no need buy any textbook for this course. We will provide lecture notes in this course. In addition, we will frequently use the book The Algorithmic Foundations of Differential Privacy by Cynthia Dwork and Aaron Roth and The Complexity of Differential Privacy by Salil Vadhan. ",
     "url": "/about/#textbooks",
     "relUrl": "/about/#textbooks"
-  },"11": {
+  },"12": {
     "doc": "About",
     "title": "Accommodations for Students with Disabilities",
     "content": "If you have a disability and are registered with the Office of Disability Resources, we encourage you to use their online system to notify us of your accommodations and discuss your needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at access@andrew.cmu.edu. ",
     "url": "/about/#accommodations-for-students-with-disabilities",
     "relUrl": "/about/#accommodations-for-students-with-disabilities"
-  },"12": {
+  },"13": {
     "doc": "About",
     "title": "Diversity Statement",
     "content": "It is our goal that students from all diverse backgrounds and perspectives are well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. Dimensions of diversity include race, age, national origin, ethnicity, gender identity and expression, intellectual and physical ability, sexual orientation, faith and non-faith perspectives, socio-economic class, political ideology, education, primary language, family status, military experience, cognitive style, and communication style. We are intentional in our aim to present materials and activities that are respectful of diversity, based on these dimensions and any other visible and invisible differences not captured in this list. Indeed, in this class you will learn to approach technology design from an empathetic, human-centered perspective that directly examines and challenges bias and inequality. Your suggestions for ensuring that the class lives up to these values are encouraged and welcomed. In addition, if at any time you experience or witness anything in this class that challenges inclusion, is insensitive or othering, or reinforces biases or stereotypes, please report those experiences (responses can be anonymous). ",
     "url": "/about/#diversity-statement",
     "relUrl": "/about/#diversity-statement"
-  },"13": {
+  },"14": {
     "doc": "About",
     "title": "Communication",
     "content": ". | Canvas: We will be using Canvas for all assignments and grades. Please also post all questions on Canvas as discussions instead of sending emails. | Email: If you email your instructors, you might want to include the substring “[FoundPriv Course]” to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. For example, you should post questions about course material and homework assignments on Canvas first, and then use emails only after an appropriate amount of time has passed without a response. Please use your CMU email account. | . ",
     "url": "/about/#communication",
     "relUrl": "/about/#communication"
-  },"14": {
+  },"15": {
     "doc": "About",
     "title": "Grading",
     "content": "| Percentage | Activity | . | 10% | In-class Activity Participation | . | 60% | Assignment 1-4, 15% each | . | 15% | Midterm | . | 15% | Final exam | . ",
     "url": "/about/#grading",
     "relUrl": "/about/#grading"
-  },"15": {
+  },"16": {
     "doc": "About",
     "title": "When Work is Due",
     "content": ". | Assignments are due on Sundays at 11:59pm. | . ",
     "url": "/about/#when-work-is-due",
     "relUrl": "/about/#when-work-is-due"
-  },"16": {
+  },"17": {
     "doc": "About",
     "title": "Late Assignments",
     "content": "We realize that things happen, and that you might sometimes not be able to turn in your assignments. To accommodate this, you will each receive 5 free late days. Beyond those days, you receive a 5% penalty for each day late. You are welcome to budget late days as you like, for instance 3 free days late for one assignment, 2 for another, or all 5 for one. ",
     "url": "/about/#late-assignments",
     "relUrl": "/about/#late-assignments"
-  },"17": {
+  },"18": {
     "doc": "About",
     "title": "Special Accommodations",
     "content": "If you have a disability and have an accommodation letter from the Disability Resources office, we encourage you to discuss your accommodations and needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at access@andrew.cmu.edu. ",
     "url": "/about/#special-accommodations",
     "relUrl": "/about/#special-accommodations"
-  },"18": {
+  },"19": {
     "doc": "About",
     "title": "Health &amp; Wellness",
     "content": "Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website at http://www.cmu.edu/counseling/. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night: . CaPS: 412-268-2922 . Re:solve Crisis Network: 888-796-8226 . ",
     "url": "/about/#health--wellness",
     "relUrl": "/about/#health--wellness"
-  },"19": {
+  },"20": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": " ",
     "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"20": {
+  },"21": {
+    "doc": "Announcements",
+    "title": "Homework Announcement",
+    "content": "Sep 11 &middot; 0 min read Homework 1 posted on Canvas! . ",
+    "url": "/announcements/",
+    "relUrl": "/announcements/"
+  },"22": {
     "doc": "Announcements",
     "title": "Week 2 Announcement",
     "content": "Aug 31 &middot; 0 min read No class or office hour on Monday Sept 5th. Enjoy Labor Day! . ",
     "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"21": {
+  },"23": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Aug 29 &middot; 0 min read Welcome to the Fall 2022 semester! . ",
     "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"22": {
+  },"24": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": " ",
     "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"23": {
+  },"25": {
     "doc": "Calendar",
     "title": "Course Overview",
     "content": "Aug 29 Course Overview Slides, HW0 ",
     "url": "/calendar/#course-overview",
     "relUrl": "/calendar/#course-overview"
-  },"24": {
+  },"26": {
     "doc": "Calendar",
     "title": "Privacy Attacks",
-    "content": "Aug 31 Reconstruction Attacks (Part 1) Slides, Reading Sept 2 RecitationReview on HW0 Note: different location DH 1211 for PGH and B23 211 for SVC Sept 5 No Class / Office HourLabor Day Sept 7 Reconstruction Attacks (Part 2) Reading ",
+    "content": "Aug 31 Reconstruction Attacks (Part 1) Slides, Note, Reading Sept 2 RecitationReview on HW0 Note: different location DH 1211 for PGH and B23 211 for SVC Sept 5 No Class / Office HourLabor Day Sept 7 Reconstruction Attacks (Part 2) Slides, Note, Reading ",
     "url": "/calendar/#privacy-attacks",
     "relUrl": "/calendar/#privacy-attacks"
-  },"25": {
+  },"27": {
+    "doc": "Calendar",
+    "title": "Definitions and Basic Techniques",
+    "content": "Sept 12 Definition of Differential Privacy Randomized Response Slides, Note ",
+    "url": "/calendar/#definitions-and-basic-techniques",
+    "relUrl": "/calendar/#definitions-and-basic-techniques"
+  },"28": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"26": {
+  },"29": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 11:50 AM–1:10 PM BH A36 | Office Hour (Giulia/Steven) 3:15 PM–4:15 PM Zoom link on Canvas | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"27": {
+  },"30": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"28": {
+  },"31": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 11:50 AM–1:10 PM BH A36 | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"29": {
+  },"32": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": ". | Yuchen's Office Hour 3:20 PM–4:20 PM Zoom link on Canvas | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"30": {
+  },"33": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Recitation 12:20 PM–1:10 PM DH 1211 | Xin's Office Hour 5:00 PM–6:00 PM Zoom link on Canvas | . | . ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"31": {
+  },"34": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"32": {
+  },"35": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "/staff/",
     "relUrl": "/staff/"
-  },"33": {
+  },"36": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Giulia Fanti . gfanti@andrew.cmu.edu . Steven Wu . zstevenwu@cmu.edu . ",
     "url": "/staff/#instructors",
     "relUrl": "/staff/#instructors"
-  },"34": {
+  },"37": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Xin Gu . xingu@andrew.cmu.edu . Yuchen Shen . yuchens2@andrew.cmu.edu . ",
     "url": "/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
-  },"35": {
+  },"38": {
     "doc": "Resources",
     "title": "Resources",
-    "content": "# Resources ## DP.org - Check out [differentialprivacy.org](http://www.differentialprivacy.org/). Much of the resources below are taken from their [resources page](https://differentialprivacy.org/resources/). ## Related Courses * [Foundations of Privacy (Fall 2021)](https://foundpriv.github.io/), previous offering of this course. * [Algorithms for Private Data Analysis](http://dpcmu.github.io), taught by [Steven Wu](http://www.zstevenwu.com/), Spring 2021 * [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html), taught by [Gautam Kamath](http://www.gautamkamath.com/), Fall 2020 * [Private Systems](https://columbia.github.io/private-systems-class/), taught by [Roxana Geambasu](https://roxanageambasu.github.io/), Spring 2020 * [Algorithms in Society](https://docs.google.com/document/d/1MO9DSbJMMnJxgml3uwYRgw2LaXPzUaDGyDM1CU6Z-Tk/), taught by [Adam Smith](https://cs-people.bu.edu/ads22/), Spring 2020 * [Privacy in the World of Big Data](https://www.korolova.com/teaching/CSCI631/), taught by [Aleksandra Korolova](https://www.korolova.com/), Fall 2019 * [Algorithms for Private Data Analysis](http://www.cs.toronto.edu/~anikolov/CSC2412F19/CSC2412.html), taught by [Aleksandar Nikolov](http://www.cs.toronto.edu/~anikolov/), Fall 2019 * [Applied Privacy for Data Science](http://people.seas.harvard.edu/~salil/cs208/), taught by [James Honaker](https://hona.kr/) and [Salil Vadhan](https://salil.seas.harvard.edu/), Spring 2019 * [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), taught by [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) and [Adam Smith](https://cs-people.bu.edu/ads22/), Fall 2017 * [Rigorous Approaches to Data Privacy](http://www.ccs.neu.edu/home/jullman/cs7880s17/syllabus.html), taught by [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/), Spring 2017 * [Design of Stable Algorithms for Privacy and Learning](https://www2.cs.duke.edu/courses/fall16/compsci590.3/), taught by [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) * [Differential Privacy in Game Theory and Mechanism Design](https://www.cis.upenn.edu/~aaroth/courses/gametheoryprivacyS14.html), taught by [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), Spring 2014 * [Mathematical Approaches to Data Privacy](http://people.seas.harvard.edu/~salil/diffprivcourse/spring13/), taught by [Salil Vadhan](https://salil.seas.harvard.edu/), Spring 2013 * [Algorithmic Foundations of Data Privacy](https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html), taught by [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), Fall 2011 * [Algorithmic Challenges in Data Privacy](http://www.cse.psu.edu/~ads22/privacy598/), taught by [Sofya Raskhodnikova](https://cs-people.bu.edu/sofya/) and [Adam Smith](https://cs-people.bu.edu/ads22/), Spring 2010 ## Books and General Surveys * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), by [Cynthia Dwork](https://www.microsoft.com/en-us/research/people/dwork/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) * [The Complexity of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf), by [Salil Vadhan](https://salil.seas.harvard.edu/) ## Focused Surveys * [Differential Privacy in the Shuffle Model: A Survey of Separations](https://www.ccis.northeastern.edu/home/albertcheu/survey-aug18.pdf) by [Albert Cheu](http://www.ccs.neu.edu/home/albertcheu/) * [A Primer on Private Statistics](https://arxiv.org/abs/2005.00010), by [Gautam Kamath](http://www.gautamkamath.com/) and [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/) * [Differential Privacy: A Primer for a Non-Technical Audience](https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf), by [Alexandra Wood](https://cyber.harvard.edu/people/awood) et al. * [Exposed! A Survey of Attacks on Private Data](https://privacytools.seas.harvard.edu/publications/exposed-survey-attacks-private-data) by [Cynthia Dwork](https://www.microsoft.com/en-us/research/people/dwork/), [Adam Smith](https://cs-people.bu.edu/ads22/), [Thomas Steinke](http://www.thomas-steinke.net/), and [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/) ## Videos * [The Theory and Practice of Differential Privacy](https://www.youtube.com/watch?v=4bpFDpT1t7I), by [Salil Vadhan](https://salil.seas.harvard.edu/), [COLT 2020](https://www.colt2020.org/) * [The U.S. Census Bureau Tries to be a Good Data Steward in the 21st Century](https://www.youtube.com/watch?v=R_8riuhIw-4), by [John Abowd](https://www.ilr.cornell.edu/people/john-abowd), [ICML 2019](https://icml.cc/Conferences/2019) * [Tutorial on Differentially Private Machine Learning](https://vimeo.com/248492174), by [Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/) and [Anand Sarwate](https://www.ece.rutgers.edu/~asarwate/), [ICML 2017](https://icml.cc/Conferences/2017/) * [Differential Privacy in the Wild: A Tutorial on Current Practices & Open Challenges](http://sigmod2017.org/sigmod-program/#tutorial), by [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/), [Xi He](https://cs.uwaterloo.ca/~xihe/) and [Michael Hay](https://cs.colgate.edu/~mhay/), [SIGMOD 2017](http://sigmod2017.org/) ## Workshops (with Videos) * [Challenges and New Approaches for Protecting Privacy in Federal Statistical Programs](https://www.nationalacademies.org/event/06-06-2019/challenges-and-new-approaches-for-protecting-privacy-in-federal-statistical-programs-a-workshop), June 2019 at the National Academies * [Data Privacy: Foundations and Applications](https://simons.berkeley.edu/programs/privacy2019), Spring 2019 at the Simons Institute for the Theory of Computing * [Mathematical Foundations of Data Privacy](https://www.birs.ca/events/2018/5-day-workshops/18w5189), May 2018 at the Banff International Research Station * [Differential Privacy: From Theory to Practice](http://cyber.biu.ac.il/event/the-7th-biu-winter-school/), February 2017 at Bar Ilan University ## Workshops (without Videos) * [Theory and Practice of Differential Privacy (TPDP)](https://tpdp.journalprivacyconfidentiality.org/) * [Privacy Preserving Machine Learning (PPML)](https://ppml-workshop.github.io/) ## Code Libraries * [Google's DP Library](https://github.com/google/differential-privacy) * [PyTorch Opacus](https://opacus.ai/) * [RAPPOR](https://github.com/google/rappor) * [OpenDP](https://github.com/opendifferentialprivacy/) * [TensorFlow Privacy](https://github.com/tensorflow/privacy) * [IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library) * [Discrete Gaussian](https://github.com/IBM/discrete-gaussian-differential-privacy) * [OpenMined](https://github.com/OpenMined/OM-Welcome-Package) * [Ektelo](https://ektelo.github.io/) ## Tools * [DPComp](https://www.dpcomp.org/) ",
+    "content": "# Resources ## DP.org - Check out [differentialprivacy.org](http://www.differentialprivacy.org/). Much of the resources below are taken from their [resources page](https://differentialprivacy.org/resources/). ## Related Courses * [Foundations of Privacy (Fall 2021)](https://foundpriv.github.io/), previous offering of this course. * [Algorithms for Private Data Analysis](http://dpcmu.github.io), taught by [Steven Wu](http://www.zstevenwu.com/), Spring 2021 * [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html), taught by [Gautam Kamath](http://www.gautamkamath.com/), Fall 2020 * [Private Systems](https://columbia.github.io/private-systems-class/), taught by [Roxana Geambasu](https://roxanageambasu.github.io/), Spring 2020 * [Algorithms in Society](https://docs.google.com/document/d/1MO9DSbJMMnJxgml3uwYRgw2LaXPzUaDGyDM1CU6Z-Tk/), taught by [Adam Smith](https://cs-people.bu.edu/ads22/), Spring 2020 * [Privacy in the World of Big Data](https://www.korolova.com/teaching/CSCI631/), taught by [Aleksandra Korolova](https://www.korolova.com/), Fall 2019 * [Algorithms for Private Data Analysis](http://www.cs.toronto.edu/~anikolov/CSC2412F19/CSC2412.html), taught by [Aleksandar Nikolov](http://www.cs.toronto.edu/~anikolov/), Fall 2019 * [Applied Privacy for Data Science](http://people.seas.harvard.edu/~salil/cs208/), taught by [James Honaker](https://hona.kr/) and [Salil Vadhan](https://salil.seas.harvard.edu/), Spring 2019 * [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), taught by [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) and [Adam Smith](https://cs-people.bu.edu/ads22/), Fall 2017 * [Rigorous Approaches to Data Privacy](http://www.ccs.neu.edu/home/jullman/cs7880s17/syllabus.html), taught by [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/), Spring 2017 * [Design of Stable Algorithms for Privacy and Learning](https://www2.cs.duke.edu/courses/fall16/compsci590.3/), taught by [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) * [Differential Privacy in Game Theory and Mechanism Design](https://www.cis.upenn.edu/~aaroth/courses/gametheoryprivacyS14.html), taught by [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), Spring 2014 * [Mathematical Approaches to Data Privacy](http://people.seas.harvard.edu/~salil/diffprivcourse/spring13/), taught by [Salil Vadhan](https://salil.seas.harvard.edu/), Spring 2013 * [Algorithmic Foundations of Data Privacy](https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html), taught by [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), Fall 2011 * [Algorithmic Challenges in Data Privacy](http://www.cse.psu.edu/~ads22/privacy598/), taught by [Sofya Raskhodnikova](https://cs-people.bu.edu/sofya/) and [Adam Smith](https://cs-people.bu.edu/ads22/), Spring 2010 ## Math Background * [Resources for Math Background](http://www.cs.cmu.edu/~mgormley/courses/10601/slides/10601-math-resources.pdf), from [Introducation to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10601/index.html) * [Notes on Probability](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/prob.pdf), by [Peter J. Cameron](http://www-groups.mcs.st-andrews.ac.uk/~pjc/) ## Books and General Surveys * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), by [Cynthia Dwork](https://www.microsoft.com/en-us/research/people/dwork/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) * [The Complexity of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf), by [Salil Vadhan](https://salil.seas.harvard.edu/) ## Focused Surveys * [Differential Privacy in the Shuffle Model: A Survey of Separations](https://www.ccis.northeastern.edu/home/albertcheu/survey-aug18.pdf) by [Albert Cheu](http://www.ccs.neu.edu/home/albertcheu/) * [A Primer on Private Statistics](https://arxiv.org/abs/2005.00010), by [Gautam Kamath](http://www.gautamkamath.com/) and [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/) * [Differential Privacy: A Primer for a Non-Technical Audience](https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf), by [Alexandra Wood](https://cyber.harvard.edu/people/awood) et al. * [Exposed! A Survey of Attacks on Private Data](https://privacytools.seas.harvard.edu/publications/exposed-survey-attacks-private-data) by [Cynthia Dwork](https://www.microsoft.com/en-us/research/people/dwork/), [Adam Smith](https://cs-people.bu.edu/ads22/), [Thomas Steinke](http://www.thomas-steinke.net/), and [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/) ## Videos * [The Theory and Practice of Differential Privacy](https://www.youtube.com/watch?v=4bpFDpT1t7I), by [Salil Vadhan](https://salil.seas.harvard.edu/), [COLT 2020](https://www.colt2020.org/) * [The U.S. Census Bureau Tries to be a Good Data Steward in the 21st Century](https://www.youtube.com/watch?v=R_8riuhIw-4), by [John Abowd](https://www.ilr.cornell.edu/people/john-abowd), [ICML 2019](https://icml.cc/Conferences/2019) * [Tutorial on Differentially Private Machine Learning](https://vimeo.com/248492174), by [Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/) and [Anand Sarwate](https://www.ece.rutgers.edu/~asarwate/), [ICML 2017](https://icml.cc/Conferences/2017/) * [Differential Privacy in the Wild: A Tutorial on Current Practices & Open Challenges](http://sigmod2017.org/sigmod-program/#tutorial), by [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/), [Xi He](https://cs.uwaterloo.ca/~xihe/) and [Michael Hay](https://cs.colgate.edu/~mhay/), [SIGMOD 2017](http://sigmod2017.org/) ## Workshops (with Videos) * [Challenges and New Approaches for Protecting Privacy in Federal Statistical Programs](https://www.nationalacademies.org/event/06-06-2019/challenges-and-new-approaches-for-protecting-privacy-in-federal-statistical-programs-a-workshop), June 2019 at the National Academies * [Data Privacy: Foundations and Applications](https://simons.berkeley.edu/programs/privacy2019), Spring 2019 at the Simons Institute for the Theory of Computing * [Mathematical Foundations of Data Privacy](https://www.birs.ca/events/2018/5-day-workshops/18w5189), May 2018 at the Banff International Research Station * [Differential Privacy: From Theory to Practice](http://cyber.biu.ac.il/event/the-7th-biu-winter-school/), February 2017 at Bar Ilan University ## Workshops (without Videos) * [Theory and Practice of Differential Privacy (TPDP)](https://tpdp.journalprivacyconfidentiality.org/) * [Privacy Preserving Machine Learning (PPML)](https://ppml-workshop.github.io/) ## Code Libraries * [Google's DP Library](https://github.com/google/differential-privacy) * [PyTorch Opacus](https://opacus.ai/) * [RAPPOR](https://github.com/google/rappor) * [OpenDP](https://github.com/opendifferentialprivacy/) * [TensorFlow Privacy](https://github.com/tensorflow/privacy) * [IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library) * [Discrete Gaussian](https://github.com/IBM/discrete-gaussian-differential-privacy) * [OpenMined](https://github.com/OpenMined/OM-Welcome-Package) * [Ektelo](https://ektelo.github.io/) ## Tools * [DPComp](https://www.dpcomp.org/) ",
     "url": "/resources/",
     "relUrl": "/resources/"
   }

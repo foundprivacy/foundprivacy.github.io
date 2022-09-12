@@ -2,6 +2,6 @@
 title: Definitions and Basic Techniques
 ---
 
-Aug 31
-: Definition of Differential Privacy Randomized Response
+Sept 12
+: Definition of Differential Privacy <br> Randomized Response
   : [Slides](#), [Note](#)
