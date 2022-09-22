@@ -9,4 +9,4 @@ Sept 19
 
 Sept 21
 : Properties of DP
-  : [Slides](https://drive.google.com/file/d/1rlreTiw9HOMMuSW1nJ5U7iUAkSoV7tPh/view?usp=sharing), [Note](https://drive.google.com/file/d/11Ea-t0u8P4JTd3ejkElS7mOJIL8Cf6fw/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/1rlreTiw9HOMMuSW1nJ5U7iUAkSoV7tPh/view?usp=sharing), [Note](https://drive.google.com/file/d/1lKYdySKxZ4nG3Q-JmJ1XnLS3hdGf2cSA/view?usp=sharing)
