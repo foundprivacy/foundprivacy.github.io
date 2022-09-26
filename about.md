@@ -129,7 +129,7 @@ Percentage | Activity  |
 
 
 ## When Work is Due
-- Assignments are due on Sundays at 11:59pm. 
+- Assignments are due on Sundays at 11:59pm EST. 
 
 
 ## Late Assignments
