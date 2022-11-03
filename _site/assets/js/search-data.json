@@ -193,7 +193,7 @@
   },"32": {
     "doc": "Calendar",
     "title": "Approximate DP and the Gaussian Mechanism",
-    "content": "Oct 31 Gaussian Mechanism, Private Machine Learning Slides, Note ",
+    "content": "Oct 31 Gaussian Mechanism, Private Machine Learning Slides, Note Nov 2 Differentially Private Machine Learning Slides, Basic optimization, Gradient descent ",
     "url": "/calendar/#approximate-dp-and-the-gaussian-mechanism",
     "relUrl": "/calendar/#approximate-dp-and-the-gaussian-mechanism"
   },"33": {
