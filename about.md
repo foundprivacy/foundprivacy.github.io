@@ -40,8 +40,9 @@ We will also cover other topics related to privacy, including fairness
 and cryptography.
 
 ## Logistics
-- **Course**: Foundations of Privacy, Fall 2022
-- **Lecture Time**: Fall 2021, 11:50AM--1:10PM EST, Mon & Weds
+- **Course**: Foundations of Privacy, Fall 2023
+- **Lecture Time**: Fall 2023, 12:30AM--1:50PM EST, Mon & Weds
+- **Location**: BH A53(Pittsburgh campus),B23 211 (San Jose campus)
 - **Zoom Link**: See Canvas
 
 ## Prerequisites

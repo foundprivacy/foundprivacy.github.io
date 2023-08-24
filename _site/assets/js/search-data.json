@@ -55,7 +55,7 @@
   },"9": {
     "doc": "About",
     "title": "Logistics",
-    "content": ". | Course: Foundations of Privacy, Fall 2022 | Lecture Time: Fall 2021, 11:50AM–1:10PM EST, Mon &amp; Weds | Zoom Link: See Canvas | . ",
+    "content": ". | Course: Foundations of Privacy, Fall 2023 | Lecture Time: Fall 2023, 12:30AM–1:50PM EST, Mon &amp; Weds | Location: BH A53(Pittsburgh campus),B23 211 (San Jose campus) | Zoom Link: See Canvas | . ",
     "url": "/about/#logistics",
     "relUrl": "/about/#logistics"
   },"10": {
@@ -151,19 +151,19 @@
   },"25": {
     "doc": "Calendar",
     "title": "Course Overview",
-    "content": "Aug 29 Course Overview Slides, HW0 ",
+    "content": "Aug 28 Course Overview Slides, HW0 ",
     "url": "/calendar/#course-overview",
     "relUrl": "/calendar/#course-overview"
   },"26": {
     "doc": "Calendar",
     "title": "Privacy Attacks",
-    "content": "Aug 31 Reconstruction Attacks (Part 1) Slides, Note, Reading Sept 2 RecitationReview on HW0 Note: different location DH 1211 for PGH and B23 211 for SVC Sept 5 No Class / Office HourLabor Day Sept 7 Reconstruction Attacks (Part 2) Slides, Note, Reading ",
+    "content": "Aug 30 Reconstruction Attacks (Part 1) Slides, Note, Reading Sept 2 RecitationReview on HW0 Note: different location DH 1211 for PGH and B23 211 for SVC Sept 4 No Class / Office HourLabor Day Sept 6 Reconstruction Attacks (Part 2) Slides, Note, Reading ",
     "url": "/calendar/#privacy-attacks",
     "relUrl": "/calendar/#privacy-attacks"
   },"27": {
     "doc": "Calendar",
     "title": "Definitions and Basic Techniques",
-    "content": "Sept 12 Definition of Differential Privacy Randomized Response Slides, Note Sept 14 Laplace Mechanism Reading, Slides, Note Sept 16 Recitation Review on DP, RR, Laplace, and HW1 ",
+    "content": "Sept 12 (TBA) Definition of Differential Privacy Randomized Response Slides, Note Sept 14 Laplace Mechanism Reading, Slides, Note Sept 16 Recitation Review on DP, RR, Laplace, and HW1 ",
     "url": "/calendar/#definitions-and-basic-techniques",
     "relUrl": "/calendar/#definitions-and-basic-techniques"
   },"28": {
@@ -235,7 +235,7 @@
   },"39": {
     "doc": "Schedule",
     "title": "Monday",
-    "content": ". | Lecture 11:50 AM–1:10 PM BH A36 | Office Hour (Giulia/Steven) 3:15 PM–4:15 PM Zoom link on Canvas | . | ",
+    "content": ". | Lecture 12:30 PM–1:50 PM BH A53 | Office Hour (Giulia/Steven) 3:15 PM–4:15 PM Zoom link on Canvas | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"40": {
@@ -247,19 +247,19 @@
   },"41": {
     "doc": "Schedule",
     "title": "Wednesday",
-    "content": ". | Lecture 11:50 AM–1:10 PM BH A36 | . | ",
+    "content": ". | Lecture 11:50 AM–1:10 PM BH A53 | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"42": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Yuchen's Office Hour 3:20 PM–4:20 PM Zoom link on Canvas | . | ",
+    "content": ". | Alexander's Office Hour 3:20 PM–4:20 PM Zoom link on Canvas | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"43": {
     "doc": "Schedule",
     "title": "Friday",
-    "content": ". | Recitation 12:20 PM–1:10 PM DH 1211 | Xin's Office Hour 5:00 PM–6:00 PM Zoom link on Canvas | . | . ",
+    "content": ". | Recitation 12:20 PM–1:10 PM BH A53 | Aadyaa's Office Hour 5:00 PM–6:00 PM Zoom link on Canvas | . | . ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"44": {

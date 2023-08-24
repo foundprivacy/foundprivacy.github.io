@@ -22,9 +22,9 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 11:50 AM 
-        end: 1:10 PM 
-        location: BH A36
+        start: 12:30 PM 
+        end: 1:50 PM 
+        location: BH A53	
       - name: Office Hour (Giulia/Steven)
         start: 3:15 PM 
         end: 4:15 PM 
@@ -36,11 +36,11 @@ schedule:
       - name: Lecture
         start: 11:50 AM
         end: 1:10 PM
-        location: BH A36
+        location: BH A53	
 
   - name: Thursday
     events:
-      - name: Yuchen's Office Hour
+      - name: Alexander's Office Hour
         start: 3:20 PM
         end: 4:20 PM
         location: Zoom link on Canvas
@@ -49,8 +49,8 @@ schedule:
       - name: Recitation
         start: 12:20 PM
         end: 1:10 PM
-        location: DH 1211
-      - name: Xin's Office Hour
+        location: BH A53	
+      - name: Aadyaa's Office Hour
         start: 5:00 PM
         end: 6:00 PM
         location: Zoom link on Canvas
