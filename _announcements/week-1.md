@@ -1,6 +1,6 @@
 ---
 title: Week 1 Announcement
 week: 1
-date: 2022-8-29
+date: 2023-8-28
 ---
-Welcome to the Fall 2022 semester!
+Welcome to the Fall 2023 semester!

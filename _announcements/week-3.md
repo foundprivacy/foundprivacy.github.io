@@ -1,6 +1,6 @@
 ---
 title: Homework Announcement
 week: 3
-date: 2022-9-11
+date: 2023-8-28
 ---
-Homework 1 posted on Canvas!
+Homework 0 posted on [calendar](./calendar)!
