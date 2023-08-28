@@ -30,8 +30,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Lecture
-        start: 11:50 AM
-        end: 1:10 PM
+        start: 12:30 PM
+        end: 1:50 PM
         location: BH A53	
 
   - name: Thursday
@@ -40,6 +40,7 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: CIC 2118 [map](https://www.google.com/maps?hl=en&q=CIC+2118)
+
   - name: Friday
     events:
       - name: Recitation

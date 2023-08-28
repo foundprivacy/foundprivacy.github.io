@@ -41,7 +41,8 @@ and cryptography.
 
 ## Logistics
 - **Course**: Foundations of Privacy, Fall 2023
-- **Lecture Time**: Fall 2023, 12:30AM--1:50PM EST, Mon & Weds
+- **Lecture Time**: Fall 2023, 12:30PM--1:50PM EST, Mon & Weds
+- **Recitation**: Fall 2023, 1:00PM--1:50PM EST, Friday
 - **Location**: BH A53(Pittsburgh campus),B23 211 (San Jose campus)
 - **Zoom Link**: See Canvas
 
