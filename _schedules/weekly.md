@@ -39,7 +39,7 @@ schedule:
       - name: Giulia's Office Hour
         start: 11:00 AM
         end: 12:00 PM
-        location: CIC 2118 [map](https://www.google.com/maps?hl=en&q=CIC+2118)
+        location: CIC 2118
 
   - name: Friday
     events:
