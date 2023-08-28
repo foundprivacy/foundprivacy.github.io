@@ -24,11 +24,7 @@ schedule:
       - name: Lecture
         start: 12:30 PM 
         end: 1:50 PM 
-        location: BH A53	
-      - name: Office Hour (Giulia/Steven)
-        start: 3:15 PM 
-        end: 4:15 PM 
-        location: Zoom link on Canvas
+        location: BH A53
 
   - name: Tuesday
   - name: Wednesday
@@ -40,19 +36,15 @@ schedule:
 
   - name: Thursday
     events:
-      - name: Alexander's Office Hour
-        start: 3:20 PM
-        end: 4:20 PM
-        location: Zoom link on Canvas
+      - name: Giulia's Office Hour
+        start: 11:00 AM
+        end: 12:00 PM
+        location: CIC 2118 [map](https://www.google.com/maps?hl=en&q=CIC+2118)
   - name: Friday
     events:
       - name: Recitation
-        start: 12:20 PM
-        end: 1:10 PM
+        start: 1:00 PM
+        end: 1:50 PM
         location: BH A53	
-      - name: Aadyaa's Office Hour
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Zoom link on Canvas
 
 ---
