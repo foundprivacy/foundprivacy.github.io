@@ -27,6 +27,11 @@ schedule:
         location: BH A53
 
   - name: Tuesday
+    events:
+      - name: Alex's Office Hour
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TCS 434 / Zoom link on Canvas 
   - name: Wednesday
     events:
       - name: Lecture
