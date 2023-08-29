@@ -32,7 +32,11 @@ schedule:
       - name: Lecture
         start: 12:30 PM
         end: 1:50 PM
-        location: BH A53	
+        location: BH A53
+      - name: Aadyaa's Office Hour
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TCS 434 / Zoom link on Canvas 
 
   - name: Thursday
     events:
