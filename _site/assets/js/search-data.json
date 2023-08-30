@@ -133,13 +133,13 @@
   },"22": {
     "doc": "Calendar",
     "title": "Privacy Attacks",
-    "content": "Aug 30 Reconstruction Attacks (Part 1) Slides, Note, Reading Sept 2 RecitationReview on HW0 Note: different location DH 1211 for PGH and B23 211 for SVC Sept 4 No Class / Office HourLabor Day Sept 6 Reconstruction Attacks (Part 2) Slides, Note, Reading ",
+    "content": "Aug 30 Reconstruction Attacks (Part 1) Slides, Note, Reading Sept 1 RecitationReview on HW0 Sept 4 No Class / Office HourLabor Day Sept 6 Reconstruction Attacks (Part 2) Slides, Note, Reading ",
     "url": "/calendar/#privacy-attacks",
     "relUrl": "/calendar/#privacy-attacks"
   },"23": {
     "doc": "Calendar",
     "title": "Definitions and Basic Techniques",
-    "content": "Sept 12 (TBA) Definition of Differential Privacy Randomized Response Slides, Note Sept 14 Laplace Mechanism Reading, Slides, Note Sept 16 Recitation Review on DP, RR, Laplace, and HW1 ",
+    "content": "Sept 11 Definition of Differential Privacy Randomized Response Slides, Note Sept 13 Laplace Mechanism Reading, Slides, Note Sept 15 Recitation Review on DP, RR, Laplace, and HW1 ",
     "url": "/calendar/#definitions-and-basic-techniques",
     "relUrl": "/calendar/#definitions-and-basic-techniques"
   },"24": {
@@ -217,19 +217,19 @@
   },"36": {
     "doc": "Schedule",
     "title": "Tuesday",
-    "content": "| ",
+    "content": ". | Alex's Office Hour 4:00 PM–5:00 PM TCS 434 / Zoom link on Canvas | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"37": {
     "doc": "Schedule",
     "title": "Wednesday",
-    "content": ". | Lecture 12:30 PM–1:50 PM BH A53 | . | ",
+    "content": ". | Lecture 12:30 PM–1:50 PM BH A53 | Aadyaa's Office Hour 4:00 PM–5:00 PM TCS 434 / Zoom link on Canvas | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"38": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Giulia's Office Hour 11:00 AM–12:00 PM CIC 2118 [map](https://www.google.com/maps?hl=en&amp;q=CIC+2118) | . | ",
+    "content": ". | Giulia's Office Hour 11:00 AM–12:00 PM CIC 2118 | . | ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
   },"39": {
