@@ -43,8 +43,8 @@ schedule:
         end: 1:50 PM
         location: BH A53
       - name: Aadyaa's Office Hour
-        start: 4:00 PM
-        end: 5:00 PM
+        start: 3:00 PM
+        end: 4:00 PM
         location: TCS 434 / Zoom link on Canvas 
 
   - name: Thursday
