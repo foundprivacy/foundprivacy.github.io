@@ -35,17 +35,14 @@ schedule:
       - name: Alex's Office Hour
         start: 4:00 PM
         end: 5:00 PM
-        location: TCS 434 / Zoom link on Canvas 
+        location: TCS 434 / Zoom link on Canvas
+      
   - name: Wednesday
     events:
       - name: Lecture
         start: 12:30 PM
         end: 1:50 PM
         location: BH A53
-      - name: Aadyaa's Office Hour
-        start: 3:00 PM
-        end: 4:00 PM
-        location: TCS 434 / Zoom link on Canvas 
 
   - name: Thursday
     events:
@@ -53,6 +50,10 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: CIC 2118 / Zoom link on Canvas
+      - name: Aadyaa's Office Hour
+        start: 3:00 PM
+        end: 4:00 PM
+        location: TCS 434 / Zoom link on Canvas 
 
   - name: Friday
     events:
