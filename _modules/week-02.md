@@ -15,3 +15,7 @@ Sept 4
 Sept 6
 : Reconstruction Attacks (Part 2)
   : [Slides](https://drive.google.com/file/d/1T6SXI6qGaugOC5KglcumGX032yGGgL0M/view?usp=sharing), [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://differentialprivacy.org/diffix-attack/)
+
+Sept 8
+
+: **Recitation**{: .label .label-purple}[Review on HW0](https://www.overleaf.com/read/jnmybqwprryw)
