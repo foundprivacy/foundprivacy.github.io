@@ -1,3 +1,4 @@
+<!--
 ---
 title: Measuring and Enforcing Fairness
 ---
@@ -9,3 +10,5 @@ Dec 5
 Dec 7
 : Final Review
   : [Slides](https://drive.google.com/file/d/1FQUC9MrVjzqg9fV8nCl06NoSpWhF7_K4/view?usp=sharing)
+
+  -->

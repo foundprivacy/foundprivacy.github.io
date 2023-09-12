@@ -1,3 +1,4 @@
+<!--
 ---
 title: Properties and Mechanisms
 ---
@@ -12,3 +13,5 @@ Sept 28
 
 Sept 30
 : **Recitation**{: .label .label-purple} Review on DP properties, exponential mechanism and HW2
+
+-->
