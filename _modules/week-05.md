@@ -1,11 +1,12 @@
-<!--
 ---
 title: Properties and Mechanisms
 ---
 
-Sept 26
+Sept 25
 : Exponential mechanism
-  : [Slides](https://drive.google.com/file/d/1J_7WgvrDwxsJeN7MbaNSsJ0QLfiGzchC/view?usp=sharing), [Note](https://drive.google.com/file/d/18O6O0HncU_b0KyNyw6motBz-0-xgTPfA/view?usp=sharing)
+  : [Slides](https://drive.google.com/open?id=11raUd0eISdDOI2uOAXAmDtj2SnMYtoFh&usp=drive_fs), [Note](https://drive.google.com/file/d/18O6O0HncU_b0KyNyw6motBz-0-xgTPfA/view?usp=sharing)
+
+<!--
 
 Sept 28
 : Composition and exponential mechanism
