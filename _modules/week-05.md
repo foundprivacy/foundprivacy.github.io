@@ -11,8 +11,8 @@ Sept 27
 : Exponential mechanism and report noisy max
   : [Slides](https://drive.google.com/open?id=15Q4g35Tiv1PROAPqg7OZsG9jRNDIxXJw&usp=drive_fs), [Note](https://drive.google.com/file/d/18O6O0HncU_b0KyNyw6motBz-0-xgTPfA/view?usp=sharing)
 
-<!--
-Sept 30
-: **Recitation**{: .label .label-purple} Review on DP properties, exponential mechanism and HW2
 
--->
+Sept 29
+: **No recitation**{: .label .label-purple} 
+  : [Homework 2](https://www.overleaf.com/read/tvhvwvyymgpc)
+
