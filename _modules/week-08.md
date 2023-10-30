@@ -4,11 +4,7 @@ title: Differential Privacy and Machine Learning
 
 Oct 30
 : DP-SGD and PATE
-  : [Homework 3](https://www.overleaf.com/read/hyjfxyqnhrjw#ee1f70)
-
-<!--
-  [Slides](https://drive.google.com/file/d/1Cqd9-pI3Rv3vv1CU_t4kPW0kDxVc0ueO/view?usp=sharing), [Note](https://drive.google.com/file/d/1nv-_I4_oNpTP2DJOfadN0hV2LLV4Xf_C/view?usp=share_link), 
-  
+  : [Slides](https://drive.google.com/file/d/1yhck7MUXXBkAozj97YDyz3cmRw_RBB9F/view?usp=sharing), [Homework 3](https://www.overleaf.com/read/hyjfxyqnhrjw#ee1f70)
 
 <!--
 Nov 2
