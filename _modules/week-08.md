@@ -2,7 +2,7 @@
 title: Differential Privacy and Machine Learning
 ---
 
-Oct 29
+Oct 30
 : DP-SGD and PATE
   : [Homework 3](https://www.overleaf.com/read/hyjfxyqnhrjw#ee1f70)
 
