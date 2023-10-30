@@ -1,5 +1,5 @@
 ---
-title: Approximate DP and the Gaussian Mechanism
+title: Differential Privacy and Machine Learning
 ---
 
 Oct 29
