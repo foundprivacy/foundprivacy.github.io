@@ -11,5 +11,5 @@ Nov 8
   : [Slides](https://drive.google.com/file/d/1EJaMSQBz9RCAUcRVFFTGqB6VDtWwtGIT/view?usp=sharing)
 
 Nov 13
-: Local differential privacy (part 2)
+: Federated Learning
   :[Slides](https://drive.google.com/file/d/1EOzOu2bK7dTVdgUNkCdP2XW_7XOV9tyT/view?usp=sharing)
