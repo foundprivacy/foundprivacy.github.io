@@ -12,4 +12,4 @@ Nov 8
 
 Nov 13
 : Federated Learning
-  :[Slides](https://drive.google.com/file/d/1EOzOu2bK7dTVdgUNkCdP2XW_7XOV9tyT/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/1EOzOu2bK7dTVdgUNkCdP2XW_7XOV9tyT/view?usp=sharing)
