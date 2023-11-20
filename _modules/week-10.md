@@ -1,15 +1,12 @@
-<!--
 
 ---
-title: Differentially Private Machine Learning
+title: Private Synthetic Data
 ---
 
-Nov 14
-: Private Machine Learning (Recap)
-  : [Slides](https://drive.google.com/file/d/1z_Tg4cz4gnLuSwTES6h7_eh22NhEkkgU/view?usp=sharing), [Note](https://drive.google.com/file/d/1tEr7g8t2FQtAegremJxJDh0XE4bxm2AS/view?usp=share_link)
+Nov 15
+: Private Synthetic Data (Part 1)
+  : [Slides](https://drive.google.com/file/d/1EPtv52IdWFwGDTJjdohVbr549dnkGplK/view?usp=sharing)
+Nov 20
+: Private Synthetic Data (Part 2)
+  : [Slides](https://drive.google.com/file/d/1EPtv52IdWFwGDTJjdohVbr549dnkGplK/view?usp=sharing)
 
-Nov 16
-: Local Differential Privacy
-  : [Slides](https://drive.google.com/file/d/1KmqUkJ61jI3OAGHMbwFlHBUMtqdQDxTn/view?usp=sharing), [DP at Google](https://developers.googleblog.com/2021/01/how-were-helping-developers-with-differential-privacy.html), [Article on DP at Apple](https://www.wired.com/story/apple-differential-privacy-shortcomings/)
-
-  -->
