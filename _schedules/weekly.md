@@ -32,10 +32,10 @@ schedule:
       
   - name: Tuesday
     events:
-      - name: Alex's Office Hour
-        start: 4:00 PM
-        end: 5:00 PM
-        location: TCS 434 / Zoom link on Canvas
+      - name: Jingwu's Office Hour
+        start: 2:00 PM
+        end: 3:00 PM
+        location: TCS 320 / Zoom link on Canvas
       
   - name: Wednesday
     events:
