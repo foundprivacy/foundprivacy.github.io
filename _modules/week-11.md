@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Privacy Review, Intro to Fairness
 ---
 
@@ -8,4 +8,4 @@ Nov 27
 
 Nov 29
 : Fairness Metrics (Part I)
-  : [Slides](https://drive.google.com/file/d/10MNVJ7IA5H1xcP2pN3ZZGvCJ4JrEpD8Z/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/10MNVJ7IA5H1xcP2pN3ZZGvCJ4JrEpD8Z/view?usp=sharing) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Definitions and Basic Techniques
 ---
 
@@ -13,4 +13,4 @@ Sept 20
 
 
 Sept 22
-: **Recitation**{: .label .label-purple} Review on Laplace, DP properties, and HW1
+: **Recitation**{: .label .label-purple} Review on Laplace, DP properties, and HW1 -->

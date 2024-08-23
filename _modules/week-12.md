@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Fairness in Big data
 ---
 
@@ -8,4 +8,4 @@ Dec 4
 
 Dec 6
 : Course Review
-  : [Slides](https://drive.google.com/open?id=1TAQIcG86br8uUNkA9AUTfFhFzRvK5HNa&usp=drive_fs)
+  : [Slides](https://drive.google.com/open?id=1TAQIcG86br8uUNkA9AUTfFhFzRvK5HNa&usp=drive_fs) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Definitions and Basic Techniques
 ---
 
@@ -14,4 +14,4 @@ Sept 13
 <!--
 Sept 15
 : **Recitation**{: .label .label-purple} Review on DP, RR, Laplace, and HW1
--->
+--> -->

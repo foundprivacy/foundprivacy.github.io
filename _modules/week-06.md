@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Other notions of DP and Gaussian Mechanism
 ---
 
@@ -15,4 +15,4 @@ Oct 5
 Oct 9
 : Gaussian mechanism
   : [Slides](https://drive.google.com/file/d/1CBorxNTIhBybb0daOufTB2wQBIBSkAxh/view?usp=sharing), [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
-
+ -->

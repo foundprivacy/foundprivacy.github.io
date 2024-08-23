@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Properties and Mechanisms
 ---
 
@@ -15,4 +15,4 @@ Sept 27
 Sept 29
 : **No recitation**{: .label .label-purple} 
   : [Homework 2](https://www.overleaf.com/read/tvhvwvyymgpc)
-
+ -->

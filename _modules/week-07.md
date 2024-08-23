@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Differential Privacy and Machine Learning
 ---
 
@@ -17,4 +17,4 @@ Oct 23
 
 Oct 25
 : DP-SGD (continued), PATE
-  : [Slides](https://drive.google.com/file/d/1E8boPEjgs2GkW_GSMM-8dbR-XBVnR8vF/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/1E8boPEjgs2GkW_GSMM-8dbR-XBVnR8vF/view?usp=sharing) -->
