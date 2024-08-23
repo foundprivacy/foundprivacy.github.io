@@ -24,7 +24,7 @@ schedule:
       - name: Lecture
         start: 12:30 PM 
         end: 1:50 PM 
-        location: BH A53
+        location: GHC 4215
       - name: Steven's Office Hour
         start: 2:45 PM 
         end: 3:45 PM 
@@ -42,7 +42,7 @@ schedule:
       - name: Lecture
         start: 12:30 PM
         end: 1:50 PM
-        location: BH A53
+        location: GHC 4215
 
   - name: Thursday
     events:
@@ -60,6 +60,6 @@ schedule:
       - name: Recitation
         start: 1:00 PM
         end: 1:50 PM
-        location: BH A53	
+        location: GHC 4215
 
 ---
