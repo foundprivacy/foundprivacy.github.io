@@ -25,17 +25,21 @@ schedule:
         start: 12:30 PM 
         end: 1:50 PM 
         location: GHC 4215
-      - name: Steven's Office Hour
-        start: 2:45 PM 
-        end: 3:45 PM 
-        location: TCS 424 / Zoom link on Canvas
+      - name: Mingxun's Office Hour
+        start: 2:00 PM 
+        end: 3:00 PM 
+        location: CIC 2225E / Zoom link on Canvas
       
   - name: Tuesday
     events:
-      - name: Jingwu's Office Hour
-        start: 2:00 PM
-        end: 3:00 PM
-        location: TCS 320 / Zoom link on Canvas
+      - name: Giulia's Office Hour
+        start: 10:00 AM
+        end: 11:00 AM
+        location: CIC 2118 / Zoom link on Canvas
+      - name: Steven's Office Hour
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TCS 424 / Zoom link on Canvas
       
   - name: Wednesday
     events:
@@ -46,14 +50,11 @@ schedule:
 
   - name: Thursday
     events:
-      - name: Giulia's Office Hour
-        start: 11:00 AM
-        end: 12:00 PM
-        location: CIC 2118 / Zoom link on Canvas
-      - name: Aadyaa's Office Hour
-        start: 3:00 PM
-        end: 4:00 PM
-        location: TCS 434 / Zoom link on Canvas 
+      - name: Jingwu's Office Hour
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TCS 320 / Zoom link on Canvas
+
 
   - name: Friday
     events:
