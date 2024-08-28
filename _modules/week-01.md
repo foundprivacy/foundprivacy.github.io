@@ -10,5 +10,5 @@ Aug 26
 
 Aug 28
 : Reconstruction attacks, Part I
-  : [Slides](https://drive.google.com/file/d/1Ah26qmHGw4umXBRDZv10q6_zWl3b-tZP/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/1Ah26qmHGw4umXBRDZv10q6_zWl3b-tZP/view?usp=sharing), [Lecture Notes](https://drive.google.com/file/d/12RcDg54zBFhMc6a_tZNLMIBk6EXBsM5V/view?usp=sharing)
 
