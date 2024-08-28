@@ -10,7 +10,7 @@ Aug 28
 
 Aug 30
 : **Recitation**{: .label .label-purple}
-  : [Review on HW0](https://www.overleaf.com/project/66ccc9505db0683b6e73776b)
+  : [Review on HW0](https://www.overleaf.com/read/fmybyrsrstqg#98d050)
 
 Sept 2
 : **No Class / Office Hour**{: .label .label-purple}
