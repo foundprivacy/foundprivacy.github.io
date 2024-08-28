@@ -124,8 +124,8 @@ sending emails.
 
 Percentage | Activity  | 
 ------|-----|
-10%| In-class Activity Participation|
-60%| Assignment 1-4, 15% each|
+10%| In-class Quiz |
+60%| Assignment 1-4, 15% each |
 15%| Midterm |
 15%| Final exam |
 
