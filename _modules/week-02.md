@@ -4,7 +4,7 @@ title: Privacy Attacks
 
 Aug 28
 : Reconstruction Attacks (Part 1)
-  : [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://queue.acm.org/detail.cfm?id=3295691)
+  : [Slides](https://drive.google.com/file/d/1Ah26qmHGw4umXBRDZv10q6_zWl3b-tZP/view?usp=sharing), [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://queue.acm.org/detail.cfm?id=3295691)
   <!-- [Slides](https://drive.google.com/file/d/1d8ZGx58iGmVnLdUma4VaKjUo9VGtZJZo/view?usp=sharing),  -->
   
 
