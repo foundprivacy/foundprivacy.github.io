@@ -19,8 +19,8 @@ Sept 2
 
 Sept 4
 : Reconstruction Attacks (Part 2)
-  : [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://differentialprivacy.org/diffix-attack/)
-  [Slides](https://drive.google.com/file/d/1mx4ueuikAOg4xTG4K0UFgNVCYaVoxL17/view), 
+  : [Slides](https://drive.google.com/file/d/1mx4ueuikAOg4xTG4K0UFgNVCYaVoxL17/view), [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://differentialprivacy.org/diffix-attack/)
+  
   <!-- [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://differentialprivacy.org/diffix-attack/) -->
 
 Sept 6
