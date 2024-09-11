@@ -18,5 +18,4 @@ Sept 11
 
 
 Sept 13
-: **Recitation**{: .label .label-purple}
-  : Review on DP, RR, Laplace, and HW1
+: **No Recitation**{: .label .label-purple}
