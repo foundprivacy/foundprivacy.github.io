@@ -10,7 +10,7 @@ Sept 18
 
 Sept 20
 : Properties of DP, Selection problem
-  : [Note](https://drive.google.com/file/d/1lKYdySKxZ4nG3Q-JmJ1XnLS3hdGf2cSA/view?usp=sharing), 
+  : [Note](https://drive.google.com/file/d/1lKYdySKxZ4nG3Q-JmJ1XnLS3hdGf2cSA/view?usp=sharing),
   [Slides](https://drive.google.com/file/d/1xGl1rCwzh947A9GeopdNZ1HiyviMm68O/view?usp=sharing)
 
 

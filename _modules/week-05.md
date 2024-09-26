@@ -9,9 +9,9 @@ Sept 25
 
 Sept 27
 : Exponential mechanism and report noisy max
-  : [Note](https://drive.google.com/file/d/18O6O0HncU_b0KyNyw6motBz-0-xgTPfA/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/1BQ7G5jUMP9j6DvmYPQCrkOCYwui1efy_/view?usp=sharing), [Note](https://drive.google.com/file/d/18O6O0HncU_b0KyNyw6motBz-0-xgTPfA/view?usp=sharing)
 
 
-Sept 29
+Sept 6
 : **Recitation**{: .label .label-purple}
   : Review on Exp. Mech.
