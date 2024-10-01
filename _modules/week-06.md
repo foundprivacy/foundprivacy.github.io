@@ -3,16 +3,16 @@ title: Other notions of DP and Gaussian Mechanism
 ---
 
 Sep 30
-: Approximate DP
-  : [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
+: Approximate DP, Gaussian Mechanism (Part 1)
+  : [Slides](https://drive.google.com/file/d/1h9mzpq6MG7xttZk5CoxKtX6VtqsoBb1C/view?usp=sharing), [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
 
 
 Oct 2
-: Approximate DP (cont'd)
+: Approximate DP, Gaussian Mechanism (Part 2)
   : [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
 
 
 Oct 7
-: Gaussian mechanism
+: Advanced Composition
   : [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
 
