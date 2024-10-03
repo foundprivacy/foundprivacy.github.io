@@ -9,7 +9,7 @@ Sep 30
 
 Oct 2
 : Approximate DP, Gaussian Mechanism (Part 2)
-  : [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/131yRgcQJsBM1PxkHq0dUm-r_0xk9Nb49/view?usp=sharing), [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
 
 
 Oct 7
