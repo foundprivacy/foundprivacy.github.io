@@ -12,7 +12,6 @@ Oct 2
   : [Slides](https://drive.google.com/file/d/131yRgcQJsBM1PxkHq0dUm-r_0xk9Nb49/view?usp=sharing), [Note](https://drive.google.com/file/d/1CDH2vzxVkxzI7ZVM0BOITDPqjckAJvaJ/view?usp=sharing)
 
 Oct 4
-Sept 27
 : **Recitation**{: .label .label-purple}
   : Review on Approx. DP, Gauss. Mech., HW 2
 
