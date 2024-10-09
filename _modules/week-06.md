@@ -20,6 +20,13 @@ Oct 7
 : Approximate DP and Advanced Composition
   : [Slides](https://drive.google.com/file/d/1AOcVx2-G1w-16bfcVvVE314lpnObjujb/view?usp=sharing), [Note](https://drive.google.com/file/d/1CIEW_n0pL528u1SVIJcWmQ9g54ktJZLV/view?usp=sharing)
 
+Oct 9
+: Sparse vector technique, Summary of mechanisms, Intro to ML
+  : [Slides](https://drive.google.com/file/d/13dtOZZMAHm0q9LxXmVXLiI86t9wz_hz5/view?usp=sharing), [Note](https://drive.google.com/file/d/1-92_UezIJSG8dwnwB_OUdR00b2KWkiTn/view?usp=sharing)
+
+Oct 11
+: **Recitation**{: .label .label-purple}
+  : Review on Advanced Composition, HW 1&2
 
 <!--
 Oct 7

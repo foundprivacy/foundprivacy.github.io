@@ -3,8 +3,8 @@ title: Differential Privacy and Machine Learning
 ---
 
 Oct 9
-: Basic ML
-  : [Note](https://drive.google.com/file/d/1D3QxPjgH53SoTQ6eFbLeAFWoCm4tQ0rk/view?usp=sharing)
+: Sparse vector technique, Summary of mechanisms, Intro to ML
+  : [Slides](https://drive.google.com/file/d/13dtOZZMAHm0q9LxXmVXLiI86t9wz_hz5/view?usp=sharing)
 
 Oct 11
 : **Recitation**{: .label .label-purple}
@@ -12,9 +12,9 @@ Oct 11
 
 
 Oct 21
-: DP-SGD
-  : [Note](https://drive.google.com/file/d/1E2u9rF_h842IXxMg4VV6Qq0Gr9DIC4M0/view?usp=sharing)
+: Intro to ML
+  : [Note](https://drive.google.com/file/d/1D3QxPjgH53SoTQ6eFbLeAFWoCm4tQ0rk/view?usp=sharing)
 
 Oct 23
-: DP-SGD (continued), PATE
+: Test 1
   : 
