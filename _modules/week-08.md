@@ -1,7 +1,11 @@
-<!-- ---
+---
 title: Differential Privacy and Machine Learning
 ---
+Oct 28
+: Wrap-Up Privacy Attacks on ML, Intro to Optimization
+  : [Slides](https://drive.google.com/file/d/1ofQTS5HEs-U9o_IQm0ZEIJiTsAmFRfSg/view?usp=sharing), [Note](https://drive.google.com/file/d/1D3QxPjgH53SoTQ6eFbLeAFWoCm4tQ0rk/view?usp=sharing)
 
+<!-- 
 Oct 30
 : DP-SGD and PATE
   : [Slides](https://drive.google.com/file/d/1yhck7MUXXBkAozj97YDyz3cmRw_RBB9F/view?usp=sharing), [Homework 3](https://www.overleaf.com/read/hyjfxyqnhrjw#ee1f70)
