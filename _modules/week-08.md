@@ -10,7 +10,7 @@ Oct 30
 : DP-SGD
   : [Slides](https://drive.google.com/file/d/1vlk5OWFfoSlVYGb9Jbn5C7CrTF7K2His/view?usp=sharing), [Note](https://drive.google.com/file/d/12lzXQLdDsoortS1_B5_uD8VorxpiA9hR/view?usp=sharing), [HW3](https://www.overleaf.com/read/hdbvzrjhjhfv#208bea)
 
-Oct 11
+Nov 1
 : **Recitation**{: .label .label-purple}
   : Review on ML and DP-SGD
 <!-- 
