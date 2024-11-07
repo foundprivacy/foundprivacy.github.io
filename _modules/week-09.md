@@ -1,15 +1,14 @@
-<!-- ---
-title: Privacy for Distributed Data
+---
+title: Other models of DP ML
 ---
 
+Nov 4
+: Class Canceled 
+
 Nov 6
-: Local differential privacy (part 1)
-  : [Slides](https://drive.google.com/file/d/1EDHuGiLno91uJ_N6p47wZqaPQRuvPDja/view?usp=sharing)
+: Review DP-SGD; Amplification by subsampling; PATE
+  : [Slides](https://drive.google.com/file/d/1VOleRaSoXoZkME1lx23g8sg-nAVyGwob/view?usp=sharing)
 
 Nov 8
-: Local differential privacy (part 2)
-  : [Slides](https://drive.google.com/file/d/1EJaMSQBz9RCAUcRVFFTGqB6VDtWwtGIT/view?usp=sharing)
-
-Nov 13
-: Federated Learning
-  : [Slides](https://drive.google.com/file/d/1EOzOu2bK7dTVdgUNkCdP2XW_7XOV9tyT/view?usp=sharing) -->
+: **Recitation**{: .label .label-purple}
+  : Review on DP-SGD, PATE and HW 3

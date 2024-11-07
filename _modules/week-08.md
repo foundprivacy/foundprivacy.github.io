@@ -13,6 +13,7 @@ Oct 30
 Oct 11
 : **Recitation**{: .label .label-purple}
   : Review on ML and DP-SGD
+  
 <!-- 
 Nov 2
 : Differentially Private Machine Learning
