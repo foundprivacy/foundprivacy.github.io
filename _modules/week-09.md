@@ -20,4 +20,4 @@ Nov 11
   
 Nov 13
 : Federated learning, Local DP + Multi-party computation
-  : 
+  : [Reading](https://research.google/blog/federated-learning-with-formal-differential-privacy-guarantees/)
