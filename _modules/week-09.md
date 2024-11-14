@@ -20,4 +20,12 @@ Nov 11
   
 Nov 13
 : Federated learning, Local DP + Multi-party computation
-  : [Reading](https://research.google/blog/federated-learning-with-formal-differential-privacy-guarantees/)
+  : [Reading](https://research.google/blog/federated-learning-with-formal-differential-privacy-guarantees/), [Slides](https://drive.google.com/file/d/1kN6q36bWYFF0wX1BZ9qu9mbyEETCqM7e/view?usp=sharing)
+
+Nov 15
+: **Recitation**{: .label .label-purple}
+  : Review on Midterm & HW3
+
+Nov 18
+: Private synthetic data, Review of private ML
+  : 
