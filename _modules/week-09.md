@@ -28,4 +28,4 @@ Nov 15
 
 Nov 18
 : Private synthetic data, Review of private ML
-  : 
+  : [Slides](https://drive.google.com/file/d/1IcOn8zqJGYsTD-nXXeug_VaEIYdrs8gB/view?usp=sharing)
