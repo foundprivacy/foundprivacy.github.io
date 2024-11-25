@@ -8,4 +8,4 @@ Nov 20
   
 Nov 25
 : Fairness Metrics (Part 2)
-  : 
+  : [Slides](https://drive.google.com/file/d/1OHs5DwdmPXNpqokA0-1elvyyNbAcBQjd/view?usp=sharing)
