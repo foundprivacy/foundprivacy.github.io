@@ -4,7 +4,7 @@ title: Course Review and Final Exam
 
 Dec 2
 : Course Review
-  : 
+  : [Slides](https://drive.google.com/file/d/1Ll5VG5JlCEHORlz-N05XXU97QHeZMuhV/view?usp=sharing)
   
 Dec 4
 : Final Exam
