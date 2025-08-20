@@ -66,6 +66,37 @@ Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexi
 by [Salil Vadhan](https://salil.seas.harvard.edu/).
 
 
+
+
+
+## Communication
+
+- **Canvas**: We will be using Canvas for all assignments and grades.
+Please also post all questions on Canvas as discussions instead of
+sending emails.
+
+-  **Email**: If you email your instructors, you might want to include
+  the substring "[FoundPriv Course]" to begin a meaningful subject
+  line and have tried to resolve the issue appropriately
+  otherwise. For example, you should post questions about course
+  material and homework assignments on Canvas first, and then use
+  emails only after an appropriate amount of time has passed without a
+  response. Please use your CMU email account.
+
+
+
+
+
+## Grading
+
+
+Percentage | Activity  | 
+------|-----|
+10%| In-class Quiz |
+60%| Exam 1-3, 20% each |
+30%| Final Project |
+
+
 ## Accommodations for Students with Disabilities
 If you have a disability and are registered with the Office of
 Disability Resources, we encourage you to use their online system to
@@ -99,45 +130,6 @@ you experience or witness anything in this class that challenges
 inclusion, is insensitive or othering, or reinforces biases or
 stereotypes, please report those experiences (responses can be
 anonymous).
-
-
-## Communication
-
-- **Canvas**: We will be using Canvas for all assignments and grades.
-Please also post all questions on Canvas as discussions instead of
-sending emails.
-
--  **Email**: If you email your instructors, you might want to include
-  the substring "[FoundPriv Course]" to begin a meaningful subject
-  line and have tried to resolve the issue appropriately
-  otherwise. For example, you should post questions about course
-  material and homework assignments on Canvas first, and then use
-  emails only after an appropriate amount of time has passed without a
-  response. Please use your CMU email account.
-
-
-
-
-
-## Grading
-
-
-Percentage | Activity  | 
-------|-----|
-10%| In-class Quiz |
-60%| Exam 1-3, 20% each |
-30%| Final Project |
-
-## Special Accommodations
-If you have a disability and have an accommodation letter from the
-Disability Resources office, we encourage you to discuss your
-accommodations and needs with us as early in the semester as
-possible. We will work with you to ensure that accommodations are
-provided as appropriate. If you suspect that you may have a disability
-and would benefit from accommodations but are not yet registered with
-the Office of Disability Resources, we encourage you to contact them
-at [access@andrew.cmu.edu](mailto:access@andrew.cmu.edu).
-
 
 ## Health & Wellness
 Take care of yourself. Do your best to maintain a healthy lifestyle
