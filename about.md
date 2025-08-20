@@ -128,20 +128,6 @@ Percentage | Activity  |
 60%| Exam 1-3, 20% each |
 30%| Final Project |
 
-
-## When Work is Due
-- Assignments are due on Sundays at 11:59pm EST. 
-
-
-## Late Assignments
-We realize that things happen, and that you might sometimes not be
-able to turn in your assignments. To accommodate this, you will each
-receive **5 free late days**.
-
-Beyond those days, you receive a 5% penalty for each day late.  You
-are welcome to budget late days as you like, for instance 3 free days
-late for one assignment, 2 for another, or all 5 for one.
-
 ## Special Accommodations
 If you have a disability and have an accommodation letter from the
 Disability Resources office, we encourage you to discuss your
