@@ -18,4 +18,5 @@ Sept 10
 
 
 Sept 12
-: **No Recitation**{: .label .label-purple}
+: **Recitation**{: .label .label-purple}
+  : Review Topics TBA

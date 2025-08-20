@@ -13,5 +13,4 @@ Sept 17
 
 
 Sept 20
-: **Recitation**{: .label .label-purple}
-  : Review on Laplace, DP properties, and HW1
+: **No Recitation**{: .label .label-purple}
