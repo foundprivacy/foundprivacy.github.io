@@ -35,7 +35,6 @@ tasks. Of course, privacy does not come for free, and we will also
 study some of the fundamental limitations imposed by the requirement
 of differential privacy. 
 
-
 We will also cover other topics related to privacy, including fairness
 and cryptography.
 
@@ -44,7 +43,6 @@ and cryptography.
 - **Lecture Time**: Fall 2025, 12:30PM--1:50PM EST, Mon & Weds
 - **Recitation**: Fall 2025, 1:00PM--1:50PM EST, Friday
 - **Location**: GHC 4215 (Pittsburgh campus)
-- **Zoom Link**: See Canvas
 
 ## Prerequisites
 This is a theory-oriented course, intended for graduate students and
