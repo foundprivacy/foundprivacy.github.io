@@ -25,5 +25,3 @@ Sept 3
 
 Sept 5
 : **Recitation**{: .label .label-purple}
-  : Review on HW0
-<!-- [Review on HW0](https://www.overleaf.com/read/jnmybqwprryw) -->

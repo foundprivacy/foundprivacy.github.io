@@ -11,6 +11,5 @@ Sept 15
 Sept 17
 : **Exam 1**{: .label .label-purple}
 
-
 Sept 20
 : **No Recitation**{: .label .label-purple}
