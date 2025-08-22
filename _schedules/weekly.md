@@ -27,7 +27,7 @@ schedule:
         location: GHC 4215
       - name: Yifei's Office Hour
         start: 10:30 AM 
-        end: 11:30 PM 
+        end: 11:30 AM 
         location: GHC FLR5 common area / Zoom link on Canvas
       
   - name: Tuesday
