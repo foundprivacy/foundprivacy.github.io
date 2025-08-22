@@ -25,10 +25,10 @@ schedule:
         start: 12:30 PM 
         end: 1:50 PM 
         location: GHC 4215
-      - name: Mingxun's Office Hour
-        start: 2:00 PM 
-        end: 3:00 PM 
-        location: CIC 2225E / Zoom link on Canvas
+      - name: Yifei's Office Hour
+        start: 10:30 AM 
+        end: 11:30 PM 
+        location: GHC FLR5 common area / Zoom link on Canvas
       
   - name: Tuesday
     events:
