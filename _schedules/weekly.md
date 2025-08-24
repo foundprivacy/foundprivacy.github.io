@@ -50,10 +50,10 @@ schedule:
 
   - name: Thursday
     events:
-      - name: Jingwu's Office Hour
-        start: 4:00 PM
-        end: 5:00 PM
-        location: TCS 320 / Zoom link on Canvas
+      - name: Jiahao's Office Hour
+        start: 2:00 PM
+        end: 3:00 PM
+        location: TCS 433 / Zoom link on Canvas
 
 
   - name: Friday
@@ -61,6 +61,6 @@ schedule:
       - name: Recitation
         start: 1:00 PM
         end: 1:50 PM
-        location: GHC 4215
+        location: GHC 4307
 
 ---
