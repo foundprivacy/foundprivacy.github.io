@@ -53,7 +53,7 @@ schedule:
       - name: Jiahao's Office Hour
         start: 2:00 PM
         end: 3:00 PM
-        location: TCS 433 / Zoom link on Canvas
+        location: TCS 443 / Zoom link on Canvas
 
 
   - name: Friday

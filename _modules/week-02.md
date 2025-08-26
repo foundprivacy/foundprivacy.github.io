@@ -9,7 +9,7 @@ Aug 27
   
 
 Aug 29
-: **No Recitation**{: .label .label-purple}
+: **Recitation**{: .label .label-purple}
 
 
 Sept 1
