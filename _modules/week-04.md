@@ -8,8 +8,5 @@ Sept 15
   [Slides](https://drive.google.com/file/d/19iW2qi4gW8eiz9QmILZ8cjO4MgsCKBSg/view?usp=sharing)
 
 
-Sept 17
+Sept 22
 : **Exam 1**{: .label .label-purple}
-
-Sept 20
-: **No Recitation**{: .label .label-purple}
