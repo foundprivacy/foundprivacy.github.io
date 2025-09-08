@@ -29,13 +29,13 @@ schedule:
         start: 10:30 AM 
         end: 11:30 AM 
         location: GHC FLR5 common area / Zoom link on Canvas
+      - name: Giulia's Office Hour
+        start: 4:00 PM
+        end: 5:00 PM
+        location: CIC 2118 / Zoom link on Canvas
       
   - name: Tuesday
     events:
-      - name: Giulia's Office Hour
-        start: 10:00 AM
-        end: 11:00 AM
-        location: CIC 2118 / Zoom link on Canvas
       - name: Steven's Office Hour
         start: 4:00 PM
         end: 5:00 PM
