@@ -5,7 +5,7 @@ title: Definitions and Basic Techniques
 Sept 8
 : Definition of Differential Privacy <br> Randomized Response
   : [Note](https://drive.google.com/file/d/14wzCdLWogOdBtHoJANUsCATexZnN8Yda/view?usp=sharing),
-    <!-- [Slides](https://drive.google.com/file/d/1KLlKAKuPbEEVkFS_AsGU555CS05cK5fO/view?usp=sharing), -->
+    [Slides](https://drive.google.com/file/d/1v4VWT3C09yfPaWjl_mGi7bvpkozUsk-K/view?usp=sharing),
     [Homework 1]()
 
 
