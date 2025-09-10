@@ -12,7 +12,7 @@ Sept 8
 Sept 10
 : Global Sensitivity and the Laplace Mechanism
   : [Reading](https://www.youtube.com/watch?v=FE9ko2wtyeQ),
-   <!-- [Slides](https://drive.google.com/file/d/1lOD3fOnjjLU19Q1CjJ3An9B1-PpDs0AN/view?usp=sharing), -->
+   [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
     [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing)
 
 
