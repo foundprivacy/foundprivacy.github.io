@@ -19,4 +19,10 @@ Sept 10
 
 Sept 12
 : **Recitation**{: .label .label-purple}
-  : Review Topics TBA
+  : HW1
+
+Sept 15
+: Laplace Mechanism and Properties of DP
+  : [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing),
+  [Slides](https://drive.google.com/file/d/1leXiwrBIj5zEDR1kIVvP22W0l4XwM8fB/view?usp=sharing)
+
