@@ -5,7 +5,7 @@ title: Privacy in Machine Learning
 Sept 17
 : Properties of DP
   :   [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
-    [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing)
+    [Note](https://drive.google.com/file/d/1Rkc5xuadlDI2loFdlW5s2wJKIgLLToQl/view?usp=sharing)
 
 
 

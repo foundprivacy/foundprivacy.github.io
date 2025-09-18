@@ -22,7 +22,7 @@ Sept 12
   : HW1
 
 Sept 15
-: Laplace Mechanism and Properties of DP
+: Laplace Mechanism and Sensitivity
   : [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing),
   [Slides](https://drive.google.com/file/d/1leXiwrBIj5zEDR1kIVvP22W0l4XwM8fB/view?usp=sharing)
 
