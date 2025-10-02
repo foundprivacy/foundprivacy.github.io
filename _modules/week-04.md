@@ -18,4 +18,4 @@ Sept 29
 
 Sept 29
 : Project Phase1 (Due on Oct.20)
-: [Code Repo](https://github.com/2020pyfcrawl/Project_phase1)
+  :   [Code Repo](https://github.com/2020pyfcrawl/Project_phase1)
