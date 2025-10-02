@@ -16,6 +16,13 @@ Sept 29
     [MIA Shadow Models](https://ieeexplore.ieee.org/abstract/document/7958568),
     [LIRA Paper](https://ieeexplore.ieee.org/abstract/document/9833649)
 
-Sept 29
-: Project Phase1 (Due on Oct.20)
+Oct 1
+: Privacy Attacks on ML, Part II <br /> Intro to Privacy Auditing
+  :   [Slides](https://drive.google.com/file/d/1qRF_tb5JVyvaAnkXjH1yEjsuH6gixHO0/view?usp=sharing),
+    Quantile regression MIA attacks: [Classification Models](https://arxiv.org/abs/2307.03694),
+    [Diffusion Models](https://arxiv.org/abs/2312.05140),
+    [LLMs](https://arxiv.org/abs/2409.14513)
+
+Oct 1
+: Project Phase 1 Released (Due on Oct.20)
   :   [Code Repo](https://github.com/2020pyfcrawl/Project_phase1)
