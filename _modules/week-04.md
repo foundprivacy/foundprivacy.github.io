@@ -30,4 +30,5 @@ Oct 1
 
 Oct 6
 : Attribute Inference, Approximate DP
-  :  [Slides](https://drive.google.com/file/d/1bizRqNWlO-LgTqXGVKU7AKPLwn0WlwgM/view?usp=sharing)
+  :  [Slides](https://drive.google.com/file/d/1bizRqNWlO-LgTqXGVKU7AKPLwn0WlwgM/view?usp=sharing),
+  [Note](https://drive.google.com/file/d/1VsqZd0ii8HYFpnpksw8JCxYzjDPCuc0m/view?usp=sharing)
