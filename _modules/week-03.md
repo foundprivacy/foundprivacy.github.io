@@ -23,12 +23,12 @@ Sept 12
 
 Sept 15
 : Laplace Mechanism and Sensitivity
-  : [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing),
-  [Slides](https://drive.google.com/file/d/1leXiwrBIj5zEDR1kIVvP22W0l4XwM8fB/view?usp=sharing)
-
+  :  [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
+  [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing),
+  
 Sept 17
 : Properties of DP
-  :   [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
+  :  [Slides](https://drive.google.com/file/d/1leXiwrBIj5zEDR1kIVvP22W0l4XwM8fB/view?usp=sharing),
     [Note](https://drive.google.com/file/d/1Rkc5xuadlDI2loFdlW5s2wJKIgLLToQl/view?usp=sharing)
 
 

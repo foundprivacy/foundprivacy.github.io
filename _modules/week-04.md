@@ -26,3 +26,8 @@ Oct 1
 Oct 1
 : Project Phase 1 Released (Due on Oct.20)
   :   [Code Repo](https://github.com/2020pyfcrawl/Project_phase1)
+
+
+Oct 6
+: Attribute Inference, Approximate DP
+  :  [Slides](https://drive.google.com/file/d/1bizRqNWlO-LgTqXGVKU7AKPLwn0WlwgM/view?usp=sharing)
