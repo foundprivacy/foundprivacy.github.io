@@ -32,3 +32,10 @@ Oct 6
 : Attribute Inference, Approximate DP
   :  [Slides](https://drive.google.com/file/d/1bizRqNWlO-LgTqXGVKU7AKPLwn0WlwgM/view?usp=sharing),
   [Note](https://drive.google.com/file/d/1VsqZd0ii8HYFpnpksw8JCxYzjDPCuc0m/view?usp=sharing)
+
+Oct 8
+: Approximate DP, Gaussian Mechanism
+  :  [Slides](https://drive.google.com/file/d/1vN7f5R37WADOEySXu_YpatIIA4N74xhV/view?usp=sharing)
+
+
+  
