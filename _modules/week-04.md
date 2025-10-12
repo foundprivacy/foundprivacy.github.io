@@ -38,4 +38,5 @@ Oct 8
   :  [Slides](https://drive.google.com/file/d/1vN7f5R37WADOEySXu_YpatIIA4N74xhV/view?usp=sharing)
 
 
-  
+Oct 12
+: [Homework 2](https://www.overleaf.com/read/kcqmdqwyhycd#b5893a)  
