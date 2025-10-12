@@ -39,4 +39,5 @@ Oct 8
 
 
 Oct 12
-: [Homework 2](https://www.overleaf.com/read/kcqmdqwyhycd#b5893a)  
+: No class, Fall Break
+  : [Homework 2](https://www.overleaf.com/read/kcqmdqwyhycd#b5893a)  
