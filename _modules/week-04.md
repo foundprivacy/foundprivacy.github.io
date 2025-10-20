@@ -41,3 +41,7 @@ Oct 8
 Oct 12
 : No class, Fall Break
   : [Homework 2](https://www.overleaf.com/read/kcqmdqwyhycd#b5893a)  
+
+Oct 20
+: Gaussian Mechanism, DP-SGD
+  : [Slides](https://drive.google.com/file/d/1xK5_r2d5cGj9RoxV1z-OKhSUqaiQeQk7/view?usp=sharing), [Notes](https://drive.google.com/file/d/1ihsvMxEJkEgBP-LxrCHbR8wuL4AThY6u/view?usp=sharing)
