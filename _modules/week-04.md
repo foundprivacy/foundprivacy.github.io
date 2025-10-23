@@ -44,8 +44,8 @@ Oct 12
 
 Oct 20
 : Gaussian Mechanism, DP-SGD
-  : [Slides](https://drive.google.com/file/d/153UDujETDYmJD20YJ2lZAJ7Gbpyqlanj/view?usp=sharing), [Notes](https://drive.google.com/file/d/1ihsvMxEJkEgBP-LxrCHbR8wuL4AThY6u/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/1IAs5euudUIrSfh_0XJnrf_VH9T9By215/view?usp=sharing), [Notes](https://drive.google.com/file/d/1ihsvMxEJkEgBP-LxrCHbR8wuL4AThY6u/view?usp=sharing)
 
 Oct 22
 : DP-SGD continued
-  : [Slides](https://drive.google.com/file/d/1ub8azc8Al46j6duVF1nnC4Dx83IddEW3/view?usp=sharing)
+  : [Slides](https://drive.google.com/file/d/1V3UNQ_b8wf5QRZrVrB5lpgUTRBWObbAB/view?usp=sharing), [Original DP-SGD Paper](https://arxiv.org/abs/1607.00133)
