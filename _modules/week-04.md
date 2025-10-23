@@ -49,3 +49,7 @@ Oct 20
 Oct 22
 : DP-SGD continued
   : [Slides](https://drive.google.com/file/d/1ub8azc8Al46j6duVF1nnC4Dx83IddEW3/view?usp=sharing)
+
+Oct 22
+: Project Phase 2 Released
+  : [Code Repo](https://github.com/2020pyfcrawl/18734-17731_Project_Phase2_3), [Leaderboard](https://www.codabench.org/competitions/11238/)
