@@ -53,3 +53,11 @@ Oct 22
 Oct 22
 : Project Phase 2 Released
   : [Code Repo](https://github.com/2020pyfcrawl/18734-17731_Project_Phase2_3), [Leaderboard](https://www.codabench.org/competitions/11238/)
+
+Oct 27
+: Advanced composition <br>  Privacy amplification <br> Sub-sample and aggregate
+  : [Note](https://drive.google.com/file/d/112SXVd4GkOYmRjO8Z0B0716ryYx6_lW8/view?usp=sharing)
+
+Oct 29
+: **Exam 2**{: .label .label-purple}
+
