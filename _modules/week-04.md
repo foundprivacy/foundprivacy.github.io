@@ -61,3 +61,7 @@ Oct 27
 Oct 29
 : **Exam 2**{: .label .label-purple}
 
+Nov 3
+: Privacy Auditing and Local Model of DP
+  : [Note](https://drive.google.com/file/d/1MnBCRM6_fJwRl0CQPMvkB_ZYmTTjqAFL/view?usp=sharing)
+
