@@ -66,6 +66,13 @@ Nov 3
   : [Note](https://drive.google.com/file/d/1MnBCRM6_fJwRl0CQPMvkB_ZYmTTjqAFL/view?usp=sharing)
 
 Nov 5
-: Local DP and Privacy amplification with shuffling
+: Local DP <br> Privacy amplification with shuffling
   : [Note](https://drive.google.com/file/d/1vU19WogxJh7BW8ASHJOLcPFGH5bpmUJe/view?usp=sharing)
+
+Nov 10
+: Federated Learning and DP
+  : [Slides](https://drive.google.com/file/d/1n7nu8jDTYXh8jVHDOsS1D009ylgQkCIs/view?usp=sharing),
+    [FL Tutorial](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view),
+    [Google FL with Formal DP Guarantees](https://research.google/blog/federated-learning-with-formal-differential-privacy-guarantees/),
+    [Advances in Private Training for Production On-Device Language Models](https://research.google/blog/advances-in-private-training-for-production-on-device-language-models/)
 
