@@ -76,3 +76,7 @@ Nov 10
     [Google FL with Formal DP Guarantees](https://research.google/blog/federated-learning-with-formal-differential-privacy-guarantees/),
     [Advances in Private Training for Production On-Device Language Models](https://research.google/blog/advances-in-private-training-for-production-on-device-language-models/)
 
+Nov 12
+: Private Synthetic Data
+  : [Slides]()
+
