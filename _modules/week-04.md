@@ -78,5 +78,5 @@ Nov 10
 
 Nov 12
 : Private Synthetic Data
-  : [Slides]()
+  : [Slides](https://drive.google.com/file/d/1VpXXMslEC58O9_y1N_PD-_e20xlQ_eEf/view?usp=sharing)
 
