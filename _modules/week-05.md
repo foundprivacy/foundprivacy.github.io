@@ -13,3 +13,6 @@ Nov 19
 Nov 24
 : **Exam 3**{: .label .label-purple}
 
+Nov 26
+: **No class: enjoy Thanksgiving**{: .label .label-purple}
+
