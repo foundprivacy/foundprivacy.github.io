@@ -4,7 +4,7 @@ title: Algorithmic Fairness
 
 Nov 17
 : Algorithmic Fairness
-  : [Slides]()
+  : [Slides](https://drive.google.com/file/d/1Jvwzi48u5sl2tPE0Dl51GWIZs0EzAYHE/view?usp=sharing)
 
 Nov 19
 : Final Review
