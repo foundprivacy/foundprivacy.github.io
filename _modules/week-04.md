@@ -48,4 +48,35 @@ Oct 20
 
 Oct 22
 : DP-SGD continued
-  : [Slides](https://drive.google.com/file/d/1V3UNQ_b8wf5QRZrVrB5lpgUTRBWObbAB/view?usp=sharing), [Original DP-SGD Paper](https://arxiv.org/abs/1607.00133)
+  : [Slides](https://drive.google.com/file/d/1ub8azc8Al46j6duVF1nnC4Dx83IddEW3/view?usp=sharing)
+
+Oct 22
+: Project Phase 2 Released
+  : [Code Repo](https://github.com/2020pyfcrawl/18734-17731_Project_Phase2_3), [Leaderboard](https://www.codabench.org/competitions/11238/)
+
+Oct 27
+: Advanced composition <br>  Privacy amplification with sub-sampling <br> Sub-sample and aggregate
+  : [Note](https://drive.google.com/file/d/112SXVd4GkOYmRjO8Z0B0716ryYx6_lW8/view?usp=sharing)
+
+Oct 29
+: **Exam 2**{: .label .label-purple}
+
+Nov 3
+: Privacy Auditing and Local Model of DP
+  : [Note](https://drive.google.com/file/d/1MnBCRM6_fJwRl0CQPMvkB_ZYmTTjqAFL/view?usp=sharing)
+
+Nov 5
+: Local DP <br> Privacy amplification with shuffling
+  : [Note](https://drive.google.com/file/d/1vU19WogxJh7BW8ASHJOLcPFGH5bpmUJe/view?usp=sharing)
+
+Nov 10
+: Federated Learning and DP
+  : [Slides](https://drive.google.com/file/d/1n7nu8jDTYXh8jVHDOsS1D009ylgQkCIs/view?usp=sharing),
+    [FL Tutorial](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view),
+    [Google FL with Formal DP Guarantees](https://research.google/blog/federated-learning-with-formal-differential-privacy-guarantees/),
+    [Advances in Private Training for Production On-Device Language Models](https://research.google/blog/advances-in-private-training-for-production-on-device-language-models/)
+
+Nov 12
+: Private Synthetic Data
+  : [Slides](https://drive.google.com/file/d/1VpXXMslEC58O9_y1N_PD-_e20xlQ_eEf/view?usp=sharing)
+
