@@ -8,7 +8,7 @@ Nov 17
 
 Nov 19
 : Final Review
-  : [Slides]()
+  : [Slides](https://drive.google.com/file/d/1hJKZxZdJKr6u2T_-yBYjfH1tXTAKupWW/view?usp=sharing)
 
 Nov 24
 : **Exam 3**{: .label .label-purple}
