@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>HW0 — Math Background Diagnostic — Foundations of Privacy (Fall 2026)</title>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      macros: {
+        eps: '\\varepsilon',
+        R: '\\mathbb{R}',
+        E: '\\mathbb{E}',
+        Var: '\\mathrm{Var}',
+        Cov: '\\mathrm{Cov}',
+        Lap: '\\mathrm{Lap}',
+        M: '\\mathcal{M}',
+        Pr: '\\mathbb{P}'
+      }
+    }
+  };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<style>
+  body { font-family: Georgia, "Times New Roman", serif; max-width: 760px; margin: 2em auto; padding: 0 1.2em; color: #222; line-height: 1.55; }
+  h1 { font-size: 1.6em; margin-bottom: 0.1em; }
+  h1 + p.subtitle { color: #666; margin-top: 0; font-style: italic; }
+  h2 { font-size: 1.15em; margin-top: 2em; border-bottom: 1px solid #ccc; padding-bottom: 0.15em; }
+  .problem { margin-top: 2em; }
+  .problem-title { font-weight: bold; font-size: 1.05em; }
+  ol.parts > li { margin-bottom: 0.5em; }
+  ol.parts { padding-left: 1.5em; }
+  .instructions { background: #f6f6f6; border-left: 4px solid #888; padding: 0.8em 1em; margin: 1.2em 0; }
+  .rubric { background: #f0f7ff; border-left: 4px solid #5b9bd5; padding: 0.8em 1em; margin: 1.5em 0; }
+  ul.tight li { margin-bottom: 0.3em; }
+  hr { border: 0; border-top: 1px solid #ddd; margin: 2.2em 0; }
+  blockquote { border-left: 3px solid #aaa; margin-left: 0; padding: 0.4em 1em; color: #444; background: #fafafa; }
+  code { font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 0.95em; background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }
+  .footer-note { color: #888; font-size: 0.9em; margin-top: 3em; border-top: 1px solid #eee; padding-top: 0.8em; }
+</style>
+</head>
+<body>
+
+<h1>HW0 — Math Background Diagnostic</h1>
+<p class="subtitle">Foundations of Privacy (Fall 2026) — Student version</p>
+
+<h2>Instructions</h2>
+<div class="instructions">
+<p>This is a self-assessment, not a graded assignment. Its purpose is to help you decide whether you have the math background to take <em>Foundations of Privacy</em> comfortably. Work through it on your own, without external help, in roughly 90 minutes to 2 hours. After you finish, consult the self-scoring rubric at the end.</p>
+
+<p>The problems exercise the following skills, all of which we will use repeatedly during the semester:</p>
+<ol class="tight">
+  <li>Summation, product, and $\max$/$\arg\min$ notation.</li>
+  <li>Basic probability: expectation, variance, independence.</li>
+  <li>Conditional probability and Bayes' rule.</li>
+  <li>Common continuous distributions (Laplace, Gaussian).</li>
+  <li>Manipulating $e^x$ and $\ln(\cdot)$ as inverse operations.</li>
+  <li>Vector norms ($\ell_1$, $\ell_2$) and basic linear algebra.</li>
+  <li>Partial derivatives and gradients.</li>
+  <li>Reading and writing statements with quantifiers ("for all…", "there exists…").</li>
+  <li>Basic proof techniques: case analysis and "without loss of generality" (WLOG).</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 1.</p>
+<p>This problem checks fluency with the summation, product, and "max / argmin"-style notation used throughout the course.</p>
+<ol class="parts" type="a">
+  <li>Let $a_1, \ldots, a_n$ and $b_1, \ldots, b_n$ be real numbers, and let $c \in \R$ be a constant. Simplify (or rewrite using $\sum$ notation):
+  (i) $\sum_{i=1}^n c \cdot a_i$, (ii) $\sum_{i=1}^n (a_i + b_i)$, (iii) $\sum_{i=1}^n c$ (the constant $c$ summed $n$ times).</li>
+  <li>Let $a_1, \ldots, a_n$ and $b_1, \ldots, b_m$ be real numbers. Show that
+    $$\sum_{i=1}^n \sum_{j=1}^m a_i b_j = \Big(\sum_{i=1}^n a_i\Big)\Big(\sum_{j=1}^m b_j\Big).$$
+    <em>Hint:</em> pull out factors that don't depend on the inner summation index.</li>
+  <li>Simplify $\prod_{i=1}^n e^{x_i}$ in terms of a single $e^{(\cdot)}$ expression.</li>
+  <li>Let $z_1, \ldots, z_n \in \R$. Write the expression
+    $$\prod_{i=1}^n \tfrac{1}{2}\, e^{-|z_i|}$$
+    as a product of a constant and a single exponential of a sum.</li>
+  <li><em>$\max$, $\arg\max$, $\arg\min$.</em> Recall: $\max_{i} a_i$ is the largest <em>value</em> among the $a_i$'s, while $\arg\max_{i} a_i$ is the <em>index</em> (or set of indices) at which the max is attained. The same distinction holds for $\min$ and $\arg\min$. State the value of each:
+  (i) $\max_{i \in \{1,2,3,4\}} a_i$ for $(a_1, a_2, a_3, a_4) = (5, -1, 5, 2)$;
+  (ii) $\arg\max_{i \in \{1,2,3,4\}} a_i$ for the same $a_i$'s;
+  (iii) $\arg\min_{w \in \R} (w - 3)^2$.</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 2.</p>
+<p>Let $X_1, \ldots, X_n$ be i.i.d. (<em>independent and identically distributed</em>) random variables with
+$$\Pr[X_i = 1] = p, \quad \Pr[X_i = 0] = 1-p, \qquad p \in [0,1].$$
+"Identically distributed" means each $X_i$ has the same distribution (in this case, $\mathrm{Bernoulli}(p)$). "Independent" means knowing the value of one $X_i$ tells you nothing about the others; equivalently, $\Pr[X_i = a, X_j = b] = \Pr[X_i = a]\,\Pr[X_j = b]$ for all $i \neq j$ and all values $a, b$. Define $S = \sum_{i=1}^n X_i$ and $\bar{X} = S/n$.</p>
+<ol class="parts" type="a">
+  <li>Compute $\E[X_i]$ and $\Var(X_i)$.</li>
+  <li>Compute $\E[S]$ and $\Var(S)$. State where you use independence and where you only use linearity of expectation.</li>
+  <li>Compute $\E[\bar{X}]$ and $\Var(\bar{X})$. What happens to $\Var(\bar{X})$ as $n \to \infty$?</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 3.</p>
+<p><em>Quick recap.</em> For an event $A$, $\neg A$ ("not $A$") denotes the <em>complement</em> of $A$: the event that $A$ does <em>not</em> occur. So $\Pr[\neg A] = 1 - \Pr[A]$. For events $A, B$ with $\Pr[B] > 0$, the <em>conditional probability</em> of $A$ given $B$ is
+$$\Pr[A \mid B] = \frac{\Pr[A \cap B]}{\Pr[B]}.$$
+<em>Bayes' rule</em> flips the order of conditioning:
+$$\Pr[A \mid B] = \frac{\Pr[B \mid A]\,\Pr[A]}{\Pr[B]}.$$
+The denominator is usually computed by the <em>law of total probability</em>: $\Pr[B] = \Pr[B \mid A]\,\Pr[A] + \Pr[B \mid \neg A]\,\Pr[\neg A]$.</p>
+
+<p>A diagnostic test for a rare condition has the following behavior:</p>
+<ul class="tight">
+  <li>If a person <em>has</em> the condition, the test reports "positive" with probability $0.95$.</li>
+  <li>If a person <em>does not</em> have the condition, the test reports "positive" with probability $0.05$.</li>
+</ul>
+<p>In the population, $1\%$ of people have the condition. A random person is tested.</p>
+<ol class="parts" type="a">
+  <li>Let $C$ be the event "the person has the condition" and $T$ be the event "the test reports positive." Write $\Pr[T \mid C]$, $\Pr[T \mid \neg C]$, and $\Pr[C]$ from the problem statement.</li>
+  <li>Use Bayes' rule to compute $\Pr[C \mid T]$. Show your steps.</li>
+  <li>Suppose instead the prevalence were $50\%$ ($\Pr[C] = 0.5$). Recompute $\Pr[C \mid T]$. Briefly explain (one or two sentences) why the answer changes so much even though the test's accuracy is unchanged.</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 4.</p>
+<p>This problem checks your conceptual understanding of continuous probability distributions over $\R$. You will not need to compute any integrals.</p>
+
+<p><em>Recap.</em> A continuous random variable $Z$ on $\R$ is described by its <em>probability density function</em> (pdf) $f : \R \to [0, \infty)$. The pdf is <strong>not</strong> itself a probability. Instead:</p>
+<ul class="tight">
+  <li>The probability that $Z$ lies in an interval $[a, b]$ is the <em>area under the curve</em> of $f$ between $a$ and $b$:
+  $$\Pr[a \leq Z \leq b] = \int_a^b f(y)\,dy.$$</li>
+  <li>Consequently, $f(y) \geq 0$ for all $y$, and the total area equals $1$: $\int_{-\infty}^{\infty} f(y)\,dy = 1$.</li>
+</ul>
+
+<ol class="parts" type="a">
+  <li><em>True or false, with one-sentence explanation.</em> If $Z$ has continuous pdf $f$ and $f(5) = 0.4$, then $\Pr[Z = 5] = 0.4$.</li>
+  <li><em>True or false, with one-sentence explanation.</em> A pdf $f$ must satisfy $f(y) \leq 1$ for all $y$.</li>
+  <li>Suppose $Z$ has a pdf $f$ that is symmetric around $0$ (i.e., $f(-y) = f(y)$ for all $y$). Without computing any integrals, explain why $\Pr[Z > 0] = \Pr[Z < 0] = \tfrac{1}{2}$.</li>
+  <li>The <strong>Laplace</strong> distribution $\Lap(\lambda)$ has pdf
+    $$h_\lambda(y) = \tfrac{1}{2\lambda}\exp(-|y|/\lambda),\quad y \in \R,\; \lambda > 0.$$
+    State (no derivation needed; you may look these up) the mean and variance of $Z \sim \Lap(\lambda)$.</li>
+  <li>The <strong>Gaussian</strong> (Normal) distribution $\mathcal{N}(\mu, \sigma^2)$ has pdf
+    $$\phi(y) = \tfrac{1}{\sqrt{2\pi}\,\sigma}\exp\!\left(-\tfrac{(y-\mu)^2}{2\sigma^2}\right),\quad y \in \R,\;\mu \in \R,\;\sigma > 0.$$
+    State the mean and variance of $W \sim \mathcal{N}(\mu, \sigma^2)$.</li>
+  <li><em>Intuition.</em> For the Laplace distribution $\Lap(\lambda)$, suppose we double the scale parameter from $\lambda$ to $2\lambda$. Without computing anything, describe in one sentence what happens to the typical magnitude of $Z$ (does it get larger, smaller, or stay the same?).</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 5.</p>
+<p>This problem checks comfort with $e^x$ and $\ln$ as a pair of inverse operations. In the course, the DP definition is stated using $e^\eps$, but many proofs and arguments work in the equivalent $\ln$ form (the so-called "privacy loss"). You should be able to move between the two fluently.</p>
+
+<p><em>Recap.</em> For all real $a, b$ and all $x, y > 0$:
+$$e^{a+b} = e^a e^b, \qquad \ln(xy) = \ln x + \ln y, \qquad \ln(e^a) = a, \qquad e^{\ln x} = x.$$
+$\ln$ is monotone increasing on $(0, \infty)$, and $e^x > 0$ for every real $x$.</p>
+
+<ol class="parts" type="a">
+  <li>Simplify each expression so the answer involves $e^a$ and $e^b$ only (no nested exponentials):
+  (i) $e^{a+b}$, (ii) $e^{a-b}$, (iii) $(e^a)^k$ for $k \in \R$.</li>
+  <li>Simplify each expression for $x, y > 0$ and $k \in \R$:
+  (i) $\ln(xy)$, (ii) $\ln(x/y)$, (iii) $\ln(x^k)$.</li>
+  <li>Solve for $x$: (i) $e^{2x} = 5$, (ii) $\ln(3x) = 1$.</li>
+  <li>Suppose $p, q > 0$ and $\eps > 0$. Show that the inequality $p \leq e^\eps \cdot q$ is equivalent to $\ln p - \ln q \leq \eps$. (One direction of equivalence in each direction; cite the property of $\ln$ you are using.)</li>
+  <li><em>Quick computation.</em> If $\ln(p/q) = 0.7$, write $p/q$ in the form $e^{?}$. What is the exponent?</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 6.</p>
+<p>For a vector $v = (v_1, \ldots, v_d) \in \R^d$, recall the <em>$\ell_1$ norm</em> (also called the <em>Manhattan</em> or <em>taxicab</em> norm) and the <em>$\ell_2$ norm</em> (also called the <em>Euclidean norm</em>):
+$$\underbrace{\|v\|_1 = \sum_{i=1}^d |v_i|}_{\ell_1 \text{ norm}}, \qquad \underbrace{\|v\|_2 = \sqrt{\sum_{i=1}^d v_i^2}}_{\ell_2 \text{ norm (Euclidean)}}.$$
+For two vectors $u, w \in \R^d$, the <em>inner product</em> (or <em>dot product</em>) is
+$$\langle u, w\rangle = \sum_{i=1}^d u_i w_i.$$
+Note that $\|v\|_2^2 = \langle v, v\rangle$.
+</p>
+
+<p><em>Geometric picture (in $\R^2$).</em> Take $d = 2$, so a vector $v = (v_1, v_2)$ is a point in the plane. The figure below plots three sets of such points: the <strong>diamond</strong> (red) is $\{v : \|v\|_1 = 1\}$, i.e. all $v$ whose $\ell_1$ norm is exactly $1$. Its vertices are at $(\pm 1, 0)$ and $(0, \pm 1)$. The <strong>solid blue circle</strong> is $\{v : \|v\|_2 = 1\}$, and the <strong>dashed blue circle</strong> is $\{v : \|v\|_2 = \tfrac{1}{\sqrt{2}}\}$. Two specific points on the diamond are marked: a vertex $v = (1, 0)$ (where $\|v\|_2 = 1$) and an edge midpoint $v = (\tfrac{1}{2}, \tfrac{1}{2})$ (where $\|v\|_2 = \tfrac{1}{\sqrt{2}}$).</p>
+
+<figure style="text-align: center; margin: 1em 0;">
+<svg width="520" height="310" viewBox="-2.6 -1.4 5.2 3.1" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, serif;">
+  <!-- Axes -->
+  <line x1="-1.3" y1="0" x2="1.3" y2="0" stroke="gray" stroke-width="0.012" marker-end="url(#arr)"/>
+  <line x1="0" y1="1.3" x2="0" y2="-1.3" stroke="gray" stroke-width="0.012" marker-end="url(#arr)"/>
+  <defs>
+    <marker id="arr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 z" fill="gray"/>
+    </marker>
+  </defs>
+  <text x="1.32" y="0.05" font-size="0.10" fill="gray">v₁</text>
+  <text x="0.05" y="-1.30" font-size="0.10" fill="gray">v₂</text>
+
+  <!-- Outer circle: l2 = 1 -->
+  <circle cx="0" cy="0" r="1" stroke="#1a4d8f" stroke-width="0.020" fill="none"/>
+  <!-- Inner (inscribed) circle: l2 = 1/sqrt(2) -->
+  <circle cx="0" cy="0" r="0.7071" stroke="#1a4d8f" stroke-width="0.020" fill="none" stroke-dasharray="0.05,0.04"/>
+  <!-- Diamond: l1 = 1 -->
+  <polygon points="1,0 0,1 -1,0 0,-1" stroke="#c0392b" stroke-width="0.022" fill="none"/>
+
+  <!-- Marked points: math (1,0) -> SVG (1,0); math (0.5, 0.5) -> SVG (0.5, -0.5) -->
+  <circle cx="1" cy="0" r="0.025" fill="black"/>
+  <circle cx="0.5" cy="-0.5" r="0.025" fill="black"/>
+  <!-- Inner-circle landing point: math (0.155, -0.69) -> SVG (0.155, 0.69) -->
+  <circle cx="0.155" cy="0.69" r="0.025" fill="#1a4d8f"/>
+
+  <!-- Leader lines.
+       SVG y is flipped from math y.
+       - Outer circle target: math (cos45, -sin45) = (0.707, -0.707) -> SVG (0.707, 0.707) (lower-right of outer circle).
+       - Inner circle target: math (cos135, sin135) = (-0.707, 0.707), but that's tangent with the diamond.
+         Use math (cos120, sin120) = (-0.354, 0.612) -> SVG (-0.354, -0.612). That's upper-left of inner circle, NOT a tangent point.
+       - Diamond target: math (0.7, 0.3) (upper-right edge, |0.7|+|0.3|=1) -> SVG (0.7, -0.3).
+  -->
+  <!-- Outer circle leader: into LOWER-right of solid blue circle (math (0.707, -0.707) -> SVG (0.707, 0.707))
+       so it's well-separated from the marked point (0.5, 0.5). -->
+  <line x1="1.50" y1="0.85" x2="0.707" y2="0.707" stroke="#1a4d8f" stroke-width="0.010"/>
+  <!-- Diamond leader: into upper-right edge at math (0.7, 0.3) -> SVG (0.7, -0.3) -->
+  <line x1="1.50" y1="-0.30" x2="0.7" y2="-0.3" stroke="#c0392b" stroke-width="0.010"/>
+  <!-- Inner circle leader: slanted through diamond's bottom vertex (math (0,-1) -> SVG (0,1))
+       to (math (0.155, -0.69) -> SVG (0.155, 0.69)) on the inner circle.
+       Math line has slope 2; in SVG, that's slope -2 (because y flips). -->
+  <line x1="-0.30" y1="1.60" x2="0.155" y2="0.69" stroke="#1a4d8f" stroke-width="0.010"/>
+
+  <!-- Labels (placed in the margins) -->
+  <text x="1.55" y="0.88" font-size="0.11" fill="#1a4d8f">‖v‖₂ = 1</text>
+  <text x="1.55" y="-0.27" font-size="0.11" fill="#c0392b">‖v‖₁ = 1</text>
+  <text x="-0.32" y="1.68" font-size="0.11" fill="#1a4d8f" text-anchor="end">‖v‖₂ = 1/√2</text>
+
+  <!-- Coordinate labels for marked points -->
+  <text x="1.05" y="0.18" font-size="0.085">(1,0)</text>
+  <text x="0.55" y="-0.55" font-size="0.085">(½,½)</text>
+</svg>
+<figcaption style="font-size: 0.92em; color: #555; max-width: 560px; margin: 0.4em auto 0;">
+<strong>Figure.</strong> Unit "balls" of the $\ell_1$ and $\ell_2$ norms in $\R^2$. The $\ell_1$ unit set (red diamond) is sandwiched between the $\ell_2$-circle of radius $\tfrac{1}{\sqrt{2}}$ (inscribed, touching the edge midpoints of the diamond) and the $\ell_2$-circle of radius $1$ (circumscribed, touching the vertices of the diamond).
+</figcaption>
+</figure>
+
+<p>So every point $v$ on the diamond $\{\|v\|_1 = 1\}$ has $\tfrac{1}{\sqrt{2}} \leq \|v\|_2 \leq 1$. Scaling gives $\|v\|_2 \leq \|v\|_1 \leq \sqrt{2}\,\|v\|_2$ in $\R^2$, which is the case $d = 2$ of the inequality you will prove in part (b).</p>
+<ol class="parts" type="a">
+  <li>Compute $\|v\|_1$ and $\|v\|_2$ for $v = (3, -4, 0, 1)$.</li>
+  <li>Show that for every $v \in \R^d$, $\|v\|_2 \leq \|v\|_1 \leq \sqrt{d}\,\|v\|_2$. <em>Hint:</em> the right inequality follows from the <em>Cauchy–Schwarz inequality</em>, which states that for any two vectors $u, w \in \R^d$, $|\langle u, w\rangle| \leq \|u\|_2 \cdot \|w\|_2$. Apply it with $u = |v| = (|v_1|, \ldots, |v_d|)$ and $w$ the all-ones vector.</li>
+  <li>Suppose $f : \R^n \to \R^d$ has the property that $\|f(x) - f(x')\|_1 \leq \Delta$ for all "neighboring" inputs $x, x'$. Using (b), give an upper bound on $\|f(x) - f(x')\|_2$ in terms of $\Delta$ and $d$.</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 7.</p>
+<p><em>Recap.</em> For a single-variable function $f : \R \to \R$, the <em>derivative</em> $f'(w)$ measures the rate of change of $f$ at $w$ (the slope of the tangent line). At a minimum or maximum of a differentiable function, $f'(w) = 0$. The second derivative $f''(w)$ tells you about curvature: if $f''(w) > 0$, then $w$ is a local minimum.</p>
+
+<p>For a multivariate function $L : \R^d \to \R$, the <em>partial derivative</em> $\partial L / \partial w_j$ is the derivative with respect to $w_j$ while treating the other coordinates as constants. The <em>gradient</em> $\nabla L(w) \in \R^d$ is the vector of partial derivatives:
+$$\nabla L(w) = \left( \frac{\partial L}{\partial w_1}(w),\; \frac{\partial L}{\partial w_2}(w),\; \ldots,\; \frac{\partial L}{\partial w_d}(w) \right).$$
+The <em>chain rule</em> for differentiation says: if $g(w) = h(r(w))$ where $r$ is scalar-valued, then $g'(w) = h'(r(w)) \cdot r'(w)$. In particular, $\frac{d}{dw}(r(w)^2) = 2\,r(w)\, r'(w)$.</p>
+
+<p>Throughout the problem, $x_1, \ldots, x_n \in \R$ are fixed real numbers (the data).</p>
+<ol class="parts" type="a">
+  <li>Define $L : \R \to \R$ by $L(w) = \frac{1}{n}\sum_{i=1}^n (w - x_i)^2$. Compute $L'(w)$, find the unique critical point, and verify (via the second derivative) that it is a minimum. What familiar statistic of the data does the minimizer equal?</li>
+  <li>Now suppose each data point is a pair $(x_i, y_i)$ with $x_i \in \R^d$ and $y_i \in \R$, and recall the inner product $\langle w, x_i\rangle = \sum_{j=1}^d w_j (x_i)_j$ from Problem 6. As a function of $w$ (with $x_i$ fixed), $\langle w, x_i\rangle$ is linear, and its gradient is $\nabla_w \langle w, x_i\rangle = x_i$. Define $L : \R^d \to \R$ by
+    $$L(w) = \frac{1}{n}\sum_{i=1}^n \big(\langle w, x_i\rangle - y_i\big)^2.$$
+    Using the chain rule, compute $\nabla L(w) \in \R^d$. Express your answer as a sum over $i$.</li>
+  <li>Let $f : \R^2 \to \R$, $f(u, v) = u^2 v + e^v$. Compute $\partial f/\partial u$ and $\partial f/\partial v$, and write down $\nabla f(u, v)$.</li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 8.</p>
+<p>This problem checks comfort with the logical structure used throughout the course. The definition of differential privacy reads:</p>
+<blockquote>
+<em>A randomized algorithm $\M$ is $\eps$-differentially private if, <strong>for all</strong> neighboring datasets $D, D'$ and <strong>for all</strong> events $E \subseteq \mathrm{Range}(\M)$:</em>
+$$\Pr[\M(D) \in E] \;\leq\; e^\eps \cdot \Pr[\M(D') \in E].$$
+</blockquote>
+
+<ol class="parts" type="a">
+  <li><em>Proving a "for all" statement.</em> Prove: for every integer $n \geq 1$, $n^2 - n$ is even. Begin your proof with "Let $n \geq 1$ be an arbitrary integer" or equivalent — be explicit that you are not assuming anything specific about $n$.</li>
+  <li><em>Disproving a "for all" statement.</em> Consider the (false) claim: <em>for every integer $n \geq 1$, $n^2 - n + 1$ is prime</em>. Disprove it. State explicitly what kind of object suffices to disprove a "for all" statement.</li>
+  <li><em>Negating a nested quantifier.</em> Write the negation of the following statement, in symbols and in plain English:
+    $$\forall x \in \R,\; \exists y \in \R \,:\; x + y > 0.$$
+    (Recall $\neg(\forall x : P(x))$ is $\exists x : \neg P(x)$, and $\neg(\exists y : Q(y))$ is $\forall y : \neg Q(y)$.)</li>
+  <li><em>Applying it to DP.</em> Suppose someone claims that an algorithm $\M$ is $\eps$-DP. To <strong>disprove</strong> their claim, what is the smallest amount of information you need to exhibit? Pick one and justify in one sentence.
+    <ol type="i">
+      <li>A single dataset $D$ and a single event $E$ such that $\Pr[\M(D) \in E] > e^\eps$.</li>
+      <li>A pair of neighboring datasets $D, D'$ and a single event $E$ such that $\Pr[\M(D) \in E] > e^\eps \cdot \Pr[\M(D') \in E]$.</li>
+      <li>All neighboring pairs $D, D'$ and all events $E$ where the inequality fails.</li>
+    </ol>
+  </li>
+</ol>
+</div>
+
+<!-- ===================================================================== -->
+<div class="problem">
+<p class="problem-title">Problem 9.</p>
+<p>This problem checks two proof techniques used throughout the course: <em>case analysis</em> and <em>WLOG</em> ("without loss of generality"). The triangle inequality is invoked directly in the privacy proof of the Laplace mechanism (Lecture 5–6).</p>
+
+<ol class="parts" type="a">
+  <li><em>Case analysis.</em> Prove the <em>triangle inequality</em> for real numbers: for all $x, y \in \R$,
+    $$|x + y| \leq |x| + |y|.$$
+    <em>Hint:</em> Recall that $|a| = a$ if $a \geq 0$ and $|a| = -a$ if $a < 0$. Split into cases based on the signs of $x$ and $y$. Be explicit about which case you are in at each step.</li>
+  <li><em>WLOG / symmetry.</em> Prove the <em>reverse triangle inequality</em>: for all $x, y \in \R$,
+    $$\big|\,|x| - |y|\,\big| \leq |x - y|.$$
+    <em>Hint:</em> You may begin "WLOG, assume $|x| \geq |y|$." Then write $x = (x - y) + y$ and apply part (a).</li>
+  <li><em>Conceptual.</em> In part (b) we said "WLOG, assume $|x| \geq |y|$." In one or two sentences, explain why this assumption is valid here — i.e., what symmetry of the statement justifies it.</li>
+</ol>
+</div>
+
+<hr>
+
+<h2>Self-scoring rubric</h2>
+<div class="rubric">
+<p>Use this guide to interpret your performance and decide whether to take the course.</p>
+
+<p><strong>What "doing it cleanly" looks like.</strong></p>
+<ul class="tight">
+  <li>You worked through each problem on your own without looking up formulas mid-problem.</li>
+  <li>Your computations are correct and you can articulate <em>why</em> each step is valid (especially: where independence is used, what Bayes' rule is doing, what makes a "for all" proof valid).</li>
+  <li>You finished in roughly 90 minutes to 2 hours.</li>
+</ul>
+
+<p><strong>Mapping to the course.</strong></p>
+<ul class="tight">
+  <li><strong>Problem 1 (sum/product notation).</strong> Used in essentially every proof and computation in the course. If any of (a)–(d) was hard, practice manipulating $\sum$ and $\prod$ before the semester starts — this is foundational.</li>
+  <li><strong>Problems 2, 3 (probability).</strong> Used in every lecture. If these were hard, the entire course will be hard — consider reviewing a basic probability text (e.g. Blitzstein &amp; Hwang, <em>Introduction to Probability</em>, Chs. 1–4) before the semester.</li>
+  <li><strong>Problem 4 (continuous distributions).</strong> The Laplace mechanism (Lecture 5–6) and Gaussian mechanism (Lecture 11–12) are central. You won't need to integrate these by hand in the course, but you should be comfortable with what a pdf means and how scale parameters affect the spread of a distribution. If parts (a)–(c) were hard, review the basics of continuous probability before the semester.</li>
+  <li><strong>Problem 5 (exp/log).</strong> Fluency with $e^x$ and $\ln$ as inverse operations is used throughout the course (DP is defined using $e^\eps$, but the equivalent log form — privacy loss — shows up in many proofs). If part (d) was hard, brush up on the algebra of logs and exponentials before the semester starts.</li>
+  <li><strong>Problem 6 (norms, linear algebra).</strong> Sensitivity (Lec. 5–6) is defined via $\ell_1$; Gaussian mechanism uses $\ell_2$. If part (b) or (c) was hard, brush up on basic norm inequalities.</li>
+  <li><strong>Problem 7 (multivariable calculus).</strong> Used in Lecture 14+ (DP-SGD, ERM). Lighter usage than the others; comfort with gradients is sufficient.</li>
+  <li><strong>Problem 8 (quantifiers).</strong> The DP definition is a triple-quantifier statement, and you will read and write proofs in this form constantly. If 8(a) or 8(d) were hard, that is a strong signal to spend time with a "transition to proof" text (e.g. Velleman, <em>How To Prove It</em>).</li>
+  <li><strong>Problem 9 (case analysis, WLOG).</strong> The triangle inequality is invoked verbatim in the Laplace mechanism privacy proof, and WLOG / symmetry arguments appear in nearly every two-sided ratio proof. If part (a) was hard, practice writing case-analysis proofs (sign cases on $\R$ are typical). If part (c) was hard, review what makes a statement symmetric in its variables.</li>
+</ul>
+
+<p>The course assumes comfort with all of the above. If any of the problems above gave you significant trouble, plan to brush up on that area before the semester begins.</p>
+</div>
+
+<p class="footer-note">Generated from <code>HW0.tex</code>. Math rendered with MathJax; requires internet to load the MathJax library on first view.</p>
+
+</body>
+</html>

@@ -39,9 +39,9 @@ We will also cover other topics related to privacy, including fairness
 and cryptography.
 
 ## Logistics
-- **Course**: Foundations of Privacy, Fall 2025
-- **Lecture Time**: Fall 2025, 12:30PM--1:50PM EST, Mon & Weds
-- **Recitation**: Fall 2025, 1:00PM--1:50PM EST, Friday
+- **Course**: Foundations of Privacy, Fall 2026
+- **Lecture Time**: Fall 2026, 12:30PM--1:50PM EST, Mon & Weds
+- **Recitation**: Fall 2026, 1:00PM--1:50PM EST, Friday
 - **Location**: GHC 4215 (Pittsburgh campus)
 
 ## Prerequisites
