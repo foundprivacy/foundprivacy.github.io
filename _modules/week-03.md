@@ -2,40 +2,33 @@
 title: Definitions and Basic Techniques
 ---
 
-Sept 8
-: Definition of Differential Privacy <br> Randomized Response
-  : [Note](https://drive.google.com/file/d/14wzCdLWogOdBtHoJANUsCATexZnN8Yda/view?usp=sharing),
-    [Slides](https://drive.google.com/file/d/1v4VWT3C09yfPaWjl_mGi7bvpkozUsk-K/view?usp=sharing),
-    [Homework 1](https://www.overleaf.com/read/vwvrrtvrrgfy#92ea35)
+Sept 7
+: **No Class / Office Hour**{: .label .label-purple}
+  : [Labor Day](https://www.history.com/topics/holidays/labor-day-1)
 
-
-Sept 10
+Sept 9
 : Global Sensitivity and the Laplace Mechanism
   : [Reading](https://www.youtube.com/watch?v=FE9ko2wtyeQ),
    [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
     [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing)
 
-
-
-Sept 12
+Sept 11
 : **Recitation**{: .label .label-purple}
   : HW1
 
-Sept 15
+Sept 14
 : Laplace Mechanism and Sensitivity
   :  [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
-  [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing),
-  
-Sept 17
+  [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing)
+
+Sept 16
 : Properties of DP
   :  [Slides](https://drive.google.com/file/d/1leXiwrBIj5zEDR1kIVvP22W0l4XwM8fB/view?usp=sharing),
     [Note](https://drive.google.com/file/d/1Rkc5xuadlDI2loFdlW5s2wJKIgLLToQl/view?usp=sharing)
 
-
-
-Sept 19
+Sept 18
 : **Recitation**{: .label .label-purple}
   : Review for Test 1
 
-Sept 22
+Sept 21
 : **Exam 1**{: .label .label-purple}

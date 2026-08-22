@@ -2,10 +2,10 @@
 title: Project Presentation
 ---
 
-Dec 1
+Nov 30
 : Project Presentation
   : [Slides]()
 
-Dec 3
+Dec 2
 : Project Presentation
   : [Slides]()
