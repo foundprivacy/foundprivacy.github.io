@@ -1,17 +1,24 @@
 ---
-title: Reconstruction Attacks & DP Definitions
+title: Differential Privacy
 ---
 
-Aug 31
-: Reconstruction Attacks (Part 2)
-  : [Slides](https://drive.google.com/file/d/1cfFbgENCm0ZgxkSr8T2HOm8-QIcKe8A6/view?usp=sharing), [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://differentialprivacy.org/diffix-attack/)
+Sept 21
+: **Test 1**{: .label .label-purple} (GF)
 
-Sept 2
-: Definition of Differential Privacy <br> Randomized Response
-  : [Note](https://drive.google.com/file/d/14wzCdLWogOdBtHoJANUsCATexZnN8Yda/view?usp=sharing),
-    [Slides](https://drive.google.com/file/d/1v4VWT3C09yfPaWjl_mGi7bvpkozUsk-K/view?usp=sharing),
-    [Homework 1](https://www.overleaf.com/read/vwvrrtvrrgfy#92ea35)
+Sept 23
+: Global Sensitivity and the Laplace Mechanism (GF) <br> Project Phase 1 Due
 
-Sept 4
+Sept 25
 : **Recitation**{: .label .label-purple}
-  : HW1
+
+Sept 28
+: Laplace Mechanism (GF) <br> Project Phase 2 Released
+
+Sept 30
+: Properties of DP (SW)
+
+Oct 2
+: **Recitation**{: .label .label-purple}
+
+Oct 5
+: Approximate DP, Gaussian Mechanism (GF)

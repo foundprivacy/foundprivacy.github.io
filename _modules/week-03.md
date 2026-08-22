@@ -1,34 +1,33 @@
 ---
-title: Definitions and Basic Techniques
+title: Differential Privacy and ML
 ---
 
-Sept 7
-: **No Class / Office Hour**{: .label .label-purple}
-  : [Labor Day](https://www.history.com/topics/holidays/labor-day-1)
+Oct 7
+: DP-SGD (GF)
 
-Sept 9
-: Global Sensitivity and the Laplace Mechanism
-  : [Reading](https://www.youtube.com/watch?v=FE9ko2wtyeQ),
-   [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
-    [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing)
-
-Sept 11
+Oct 9
 : **Recitation**{: .label .label-purple}
-  : HW1
 
-Sept 14
-: Laplace Mechanism and Sensitivity
-  :  [Slides](https://drive.google.com/file/d/15BGU0QvlTJHKiKjXLCxybfMm_FqE5sRB/view?usp=sharing),
-  [Note](https://drive.google.com/file/d/15EA-6-nh3n7KEA-S4926CPDFerVflz3g/view?usp=sharing)
+Oct 12
+: **No Class: Fall Break**{: .label .label-purple}
 
-Sept 16
-: Properties of DP
-  :  [Slides](https://drive.google.com/file/d/1leXiwrBIj5zEDR1kIVvP22W0l4XwM8fB/view?usp=sharing),
-    [Note](https://drive.google.com/file/d/1Rkc5xuadlDI2loFdlW5s2wJKIgLLToQl/view?usp=sharing)
+Oct 14
+: **No Class: Fall Break**{: .label .label-purple}
 
-Sept 18
+Oct 19
+: DP-SGD Continued (GF) <br> Project Phase 2 Due
+
+Oct 21
+: Amplification by Subsampling <br> PATE (GF)
+
+Oct 23
 : **Recitation**{: .label .label-purple}
-  : Review for Test 1
 
-Sept 21
-: **Exam 1**{: .label .label-purple}
+Oct 26
+: DP Auditing (SW)
+
+Oct 28
+: **Test 2** (through DP-SGD){: .label .label-purple} (GF)
+
+Oct 30
+: **Recitation**{: .label .label-purple}

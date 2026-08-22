@@ -1,26 +1,21 @@
 ---
-title: Algorithmic Fairness
+title: Exams & Project Presentations
 ---
 
-Nov 13
-: **Recitation**{: .label .label-purple}
-
-Nov 16
-: Algorithmic Fairness
-  : [Slides](https://drive.google.com/file/d/1Jvwzi48u5sl2tPE0Dl51GWIZs0EzAYHE/view?usp=sharing)
-
-Nov 18
-: Final Review
-  : [Slides](https://drive.google.com/file/d/1hJKZxZdJKr6u2T_-yBYjfH1tXTAKupWW/view?usp=sharing)
-
-Nov 20
-: **Recitation**{: .label .label-purple}
-
 Nov 23
-: **Exam 3**{: .label .label-purple}
+: **Test 3** (through Crypto / MPC){: .label .label-purple} (SW)
 
 Nov 25
-: **No class: enjoy Thanksgiving**{: .label .label-purple}
+: **No Class: Thanksgiving Break**{: .label .label-purple}
 
 Nov 27
-: **No class: enjoy Thanksgiving**{: .label .label-purple}
+: **No Class: Thanksgiving Break**{: .label .label-purple}
+
+Nov 30
+: Oral Project Presentations (GF/SW)
+
+Dec 2
+: Oral Project Presentations (GF/SW)
+
+Dec 4
+: Oral Project Presentations (Spillover) <br> Project Phase 3 Due

@@ -1,16 +1,42 @@
 ---
-title: Course Overview
+title: Privacy Attacks
 ---
 
 Aug 24
-: Course Overview
-  : [Slides](#)
-  , [HW0 (PDF)](/hw/HW0.pdf)
+: Course Overview (SW)
+  : [HW0 (PDF)](/hw/HW0.pdf)
   , [HW0 (HTML)](/hw/HW0.html)
 
 Aug 26
-: Reconstruction Attacks (Part 1)
-  : [Slides](https://drive.google.com/file/d/1mGFv7SgHykcVSiED4IECNnK9S7VXkAXc/view?usp=sharing), [Note](https://drive.google.com/file/d/1-J8F8i43gwFMi80yf-X84ljWZ1MhEupj/view?usp=sharing), [Reading](https://queue.acm.org/detail.cfm?id=3295691)
+: Reconstruction Attacks (SW)
 
 Aug 28
+: **Recitation**{: .label .label-purple}
+
+Aug 31
+: Reconstruction Attacks, Part 2 <br> K-anonymity (SW)
+
+Sept 2
+: Brief Intro to ML and Generative Models (GF)
+
+Sept 4
+: **Recitation**{: .label .label-purple}
+
+Sept 7
+: **No Class**{: .label .label-purple}
+  : Labor Day
+
+Sept 9
+: Privacy Attacks 1: Membership Inference (GF)
+
+Sept 11
+: **Recitation**{: .label .label-purple}
+
+Sept 14
+: Privacy Attacks 2: MI cont'd, Attribute Inference (GF) <br> Project Phase 1 Released
+
+Sept 16
+: Definition of Differential Privacy <br> Randomized Response (SW)
+
+Sept 18
 : **Recitation**{: .label .label-purple}
