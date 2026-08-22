@@ -12,10 +12,10 @@ Nov 27
 : **No Class: Thanksgiving Break**{: .label .label-purple}
 
 Nov 30
-: Oral Project Presentations (GF/SW)
+: **Oral Project Presentations** (GF/SW)
 
 Dec 2
-: Oral Project Presentations (GF/SW)
+: **Oral Project Presentations** (GF/SW)
 
 Dec 4
-: Oral Project Presentations (Spillover) <br> Project Phase 3 Due
+: **Oral Project Presentations (Spillover)** <br> Project Phase 3 Due
