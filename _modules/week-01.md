@@ -3,9 +3,7 @@ title: Privacy Attacks
 ---
 
 Aug 24
-: Course Overview (SW)
-  : [HW0 (PDF)](/hw/HW0.pdf)
-  , [HW0 (HTML)](/hw/HW0.html)
+: Course Overview (SW) &mdash; [HW0 (PDF)](/hw/HW0.pdf), [HW0 (HTML)](/hw/HW0.html)
 
 Aug 26
 : Reconstruction Attacks (SW)
