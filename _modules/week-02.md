@@ -3,7 +3,7 @@ title: Differential Privacy
 ---
 
 Sept 21
-: **Test 1**{: .label .label-purple} (GF)
+: **Test 1**{: .label .label-purple} <br> (GF)
 
 Sept 23
 : **Global Sensitivity and the Laplace Mechanism** (GF) <br> Project Phase 1 Due

@@ -3,7 +3,7 @@ title: Exams & Project Presentations
 ---
 
 Nov 23
-: **Test 3** (through Crypto / MPC){: .label .label-purple} (SW)
+: **Test 3 (through Crypto / MPC)**{: .label .label-purple} <br> (SW)
 
 Nov 25
 : **No Class: Thanksgiving Break**{: .label .label-purple}

@@ -27,7 +27,7 @@ Oct 26
 : **DP Auditing** (SW)
 
 Oct 28
-: **Test 2** (through DP-SGD){: .label .label-purple} (GF)
+: **Test 2 (through DP-SGD)**{: .label .label-purple} <br> (GF)
 
 Oct 30
 : **Recitation**{: .label .label-purple}
