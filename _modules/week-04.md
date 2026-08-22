@@ -3,7 +3,7 @@ title: Basic Cryptography
 ---
 
 Nov 2
-: **Local DP, Federated Learning** (SW) <br> Optional: Praneeth Vepakomma CyLab Lecture, 12-1
+: **Local DP, Federated Learning** (SW)
 
 Nov 4
 : **Basic Crypto I: Public-Key Encryption and Data Release** (SW)
