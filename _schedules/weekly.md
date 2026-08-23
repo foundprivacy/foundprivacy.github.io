@@ -25,7 +25,7 @@ schedule:
         start: 12:30 PM 
         end: 1:50 PM 
         location: GHC 4215
-      - name: Yifei's Office Hour
+      - name: Shuqi's Office Hour
         start: 10:30 AM 
         end: 11:30 AM 
         location: GHC FLR5 common area / Zoom link on Canvas
@@ -49,12 +49,7 @@ schedule:
         location: GHC 4215
 
   - name: Thursday
-    events:
-      - name: Jiahao's Office Hour
-        start: 2:00 PM
-        end: 3:00 PM
-        location: TCS 443 / Zoom link on Canvas
-
+    events: []
 
   - name: Friday
     events:
