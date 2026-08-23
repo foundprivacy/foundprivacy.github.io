@@ -3,14 +3,12 @@ title: Exams & Project Presentations
 ---
 
 Nov 23
-: **Test 3 (through Crypto / MPC)**{: .label .label-blue}
+: **Test 3**{: .label .label-amber} (through Crypto / MPC)
   : (SW)
 
 Nov 25
-: **No Class: Thanksgiving Break**{: .label .label-purple}
-
-Nov 27
-: **No Class: Thanksgiving Break**{: .label .label-purple}
+: **No Class**{: .label .label-purple} 🦃 Thanksgiving Break
+  : <!-- -->
 
 Nov 30
 : Oral Project Presentations (GF/SW)
@@ -21,5 +19,5 @@ Dec 2
   : <!-- -->
 
 Dec 4
-: Oral Project Presentations (Spillover)
-  : Project Phase 3 Due
+: Oral Project Presentations (Spillover) <br> **Project Phase 3 Due**{: .label .label-amber}
+  : <!-- -->

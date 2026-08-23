@@ -25,8 +25,8 @@ Sept 4
 : **Recitation**{: .label .label-purple}
 
 Sept 7
-: **No Class**{: .label .label-purple}
-  : Labor Day
+: **No Class**{: .label .label-purple} 👷 Labor Day
+  : <!-- -->
 
 Sept 9
 : Privacy Attacks 1: Membership Inference (GF)
@@ -36,8 +36,8 @@ Sept 11
 : **Recitation**{: .label .label-purple}
 
 Sept 14
-: Privacy Attacks 2: MI cont'd, Attribute Inference (GF)
-  : Project Phase 1 Released
+: Privacy Attacks 2: MI cont'd, Attribute Inference (GF) <br> **Project Phase 1 Released**{: .label .label-amber}
+  : <!-- -->
 
 Sept 16
 : Definition of Differential Privacy <br> Randomized Response (SW)

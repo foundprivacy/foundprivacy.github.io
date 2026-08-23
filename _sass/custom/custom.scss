@@ -55,3 +55,18 @@ summary {
     }
   }
 }
+
+// Event labels in the calendar (Recitation, No Class, Test).
+// The `**...**{: .label}` idiom emits a <strong>, but these read as
+// tags rather than emphasis, so drop the bold and let the pill carry
+// the weight.
+.label {
+  font-weight: 400;
+}
+
+// An accent that stands out more than the default blue without
+// reaching for red or green. Used for the dates that carry a
+// deadline: exams and project milestones.
+.label-amber {
+  background-color: #c2410c;
+}
