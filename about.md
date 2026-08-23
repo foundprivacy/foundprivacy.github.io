@@ -49,7 +49,10 @@ This is a theory-oriented course, intended for graduate students and
 advanced undergraduates. The (informal) prerequisite is familiarity
 with probability, linear algebra, and introductory algorithms. Prior
 coursework in machine learning, algorithms, and probability will be
-helpful.
+helpful. For a more concrete way to assess whether you have the right
+background, see [HW0](/hw/HW0.pdf) ([HTML version](/hw/HW0.html)): if
+you are able to work through it comfortably, you should be well
+prepared for this course.
 
 ## Textbooks
 There is no need buy any textbook for this course. We will provide
@@ -90,7 +93,7 @@ sending emails.
 
 Percentage | Activity  | 
 ------|-----|
-10%| In-class Quiz |
+10%| Attendance |
 60%| Exam 1-3, 20% each |
 30%| Final Project |
 
