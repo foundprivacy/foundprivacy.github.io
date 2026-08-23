@@ -55,16 +55,21 @@ you are able to work through it comfortably, you should be well
 prepared for this course.
 
 ## Textbooks
-There is no need buy any textbook for this course. We will provide
-lecture notes in this course. In addition, we will frequently use the
-book [The Algorithmic Foundations of Differential
-Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) by
-[Cynthia
-Dwork](https://www.microsoft.com/en-us/research/people/dwork/) and
-[Aaron Roth](https://www.cis.upenn.edu/~aaroth/) and [The Complexity
-of Differential
-Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
-by [Salil Vadhan](https://salil.seas.harvard.edu/).
+There is no need to buy any textbook for this course. We will provide
+lecture notes in this course. The following books are useful
+references:
+
+- [The Algorithmic Foundations of Differential
+  Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+  by [Cynthia
+  Dwork](https://www.microsoft.com/en-us/research/people/dwork/) and
+  [Aaron Roth](https://www.cis.upenn.edu/~aaroth/)
+- [The Complexity of Differential
+  Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
+  by [Salil Vadhan](https://salil.seas.harvard.edu/)
+- [Differential Privacy Overview and Fundamental
+  Techniques](https://arxiv.org/abs/2411.04710) by Ferdinando
+  Fioretto, Pascal Van Hentenryck, and Juba Ziani
 
 
 
