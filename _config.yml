@@ -19,7 +19,10 @@ description: Foundations of Privacy
 author: Steven Wu, Giulia Fanti
 # baseurl: '/foundprivacy'	# the subpath of your site, e.g. /blog
 url: 'https://foundprivacy.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+# Jekyll reads every file in a collection folder regardless of extension,
+# so local *.md.bak backups would otherwise show up as extra calendar
+# sections when running `jekyll serve`.
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "*.bak"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
