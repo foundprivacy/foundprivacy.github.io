@@ -3,7 +3,7 @@ title: Differential Privacy
 ---
 
 Sept 21
-: **Test 1**{: .label .label-purple}
+: **Test 1**{: .label .label-blue}
   : (GF)
 
 Sept 23

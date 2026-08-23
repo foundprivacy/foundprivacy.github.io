@@ -31,7 +31,7 @@ Oct 26
   : <!-- -->
 
 Oct 28
-: **Test 2 (through DP-SGD)**{: .label .label-purple}
+: **Test 2 (through DP-SGD)**{: .label .label-blue}
   : (GF)
 
 Oct 30

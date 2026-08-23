@@ -3,7 +3,7 @@ title: Exams & Project Presentations
 ---
 
 Nov 23
-: **Test 3 (through Crypto / MPC)**{: .label .label-purple}
+: **Test 3 (through Crypto / MPC)**{: .label .label-blue}
   : (SW)
 
 Nov 25
