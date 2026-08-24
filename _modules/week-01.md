@@ -8,14 +8,14 @@ Aug 24
 
 Aug 26
 : Reconstruction Attacks
-  : <!-- -->
+  : [Reading](https://queue.acm.org/detail.cfm?id=3295691)
 
 Aug 28
 : **Recitation**{: .label .label-purple}
 
 Aug 31
 : Reconstruction Attacks, Part 2 <br> K-anonymity
-  : <!-- -->
+  : [Reading](https://differentialprivacy.org/diffix-attack/)
 
 Sept 2
 : Brief Intro to ML and Generative Models
