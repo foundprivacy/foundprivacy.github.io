@@ -18,5 +18,5 @@ Dec 2
   : <!-- -->
 
 Dec 4
-: Oral Project Presentations (Spillover) <br> **Project Phase 3 Due**{: .label .label-amber}
+: Oral Project Presentations (Spillover)
   : <!-- -->
