@@ -3,7 +3,7 @@ title: Differential Privacy and ML
 ---
 
 Oct 7
-: DP-SGD (GF)
+: DP-SGD
   : <!-- -->
 
 Oct 9
@@ -18,27 +18,26 @@ Oct 14
   : <!-- -->
 
 Oct 19
-: DP-SGD Continued (GF) <br> **Project Phase 2 Due**{: .label .label-amber}
+: DP-SGD Continued <br> **Project Phase 2 Due**{: .label .label-amber}
   : <!-- -->
 
 Oct 21
-: Amplification by Subsampling <br> PATE (GF)
+: Amplification by Subsampling <br> PATE
   : <!-- -->
 
 Oct 23
 : **Recitation**{: .label .label-purple}
 
 Oct 26
-: DP Auditing (SW)
+: DP Auditing
   : <!-- -->
 
 Oct 28
 : **Test 2**{: .label .label-amber} (through DP-SGD)
-  : (GF)
-
+  : <!-- -->
 Oct 30
 : **Recitation**{: .label .label-purple}
 
 Nov 2
-: Local DP, Federated Learning (SW)
+: Local DP, Federated Learning
   : <!-- -->

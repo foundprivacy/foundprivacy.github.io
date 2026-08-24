@@ -4,26 +4,25 @@ title: Differential Privacy
 
 Sept 21
 : **Test 1**{: .label .label-amber}
-  : (GF)
-
+  : <!-- -->
 Sept 23
-: Global Sensitivity and the Laplace Mechanism (GF) <br> **Project Phase 1 Due**{: .label .label-amber}
+: Global Sensitivity and the Laplace Mechanism <br> **Project Phase 1 Due**{: .label .label-amber}
   : <!-- -->
 
 Sept 25
 : **Recitation**{: .label .label-purple}
 
 Sept 28
-: Laplace Mechanism (GF) <br> **Project Phase 2 Released**{: .label .label-amber}
+: Laplace Mechanism <br> **Project Phase 2 Released**{: .label .label-amber}
   : <!-- -->
 
 Sept 30
-: Properties of DP (SW)
+: Properties of DP
   : <!-- -->
 
 Oct 2
 : **Recitation**{: .label .label-purple}
 
 Oct 5
-: Approximate DP, Gaussian Mechanism (GF)
+: Approximate DP, Gaussian Mechanism
   : <!-- -->
