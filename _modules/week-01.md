@@ -4,7 +4,7 @@ title: Privacy Attacks
 
 Aug 24
 : Course Overview
-  : [HW0 (PDF)](/hw/HW0.pdf), [HW0 (HTML)](/hw/HW0.html)
+  : [Slides](https://drive.google.com/file/d/1zGjSt6bgZe-wjzkHS0nhta1Fnt2lSDWt/view?usp=sharing), [HW0 (PDF)](/hw/HW0.pdf), [HW0 (HTML)](/hw/HW0.html)
 
 Aug 26
 : Reconstruction Attacks
