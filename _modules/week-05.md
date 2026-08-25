@@ -7,7 +7,7 @@ Nov 23
   : <!-- -->
 
 Nov 25
-: **No Class**{: .label .label-purple} 🦃 Thanksgiving Break
+: **No Class**{: .label .label-slate} 🦃 Thanksgiving Break
   : <!-- -->
 
 Nov 30

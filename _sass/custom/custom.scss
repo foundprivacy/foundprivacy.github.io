@@ -70,3 +70,10 @@ summary {
 .label-amber {
   background-color: #c2410c;
 }
+
+// A muted slate/grey used for "No Class" days (breaks, holidays) so
+// they read as "nothing happening" and are visually distinct from the
+// purple Recitation pills.
+.label-slate {
+  background-color: #64748b;
+}

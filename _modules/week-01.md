@@ -25,7 +25,7 @@ Sept 4
 : **Recitation**{: .label .label-purple}
 
 Sept 7
-: **No Class**{: .label .label-purple} 👷 Labor Day
+: **No Class**{: .label .label-slate} 👷 Labor Day
   : <!-- -->
 
 Sept 9

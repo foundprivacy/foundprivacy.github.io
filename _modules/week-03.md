@@ -10,11 +10,11 @@ Oct 9
 : **Recitation**{: .label .label-purple}
 
 Oct 12
-: **No Class**{: .label .label-purple} 🍂 Fall Break
+: **No Class**{: .label .label-slate} 🍂 Fall Break
   : <!-- -->
 
 Oct 14
-: **No Class**{: .label .label-purple} 🍂 Fall Break
+: **No Class**{: .label .label-slate} 🍂 Fall Break
   : <!-- -->
 
 Oct 19
