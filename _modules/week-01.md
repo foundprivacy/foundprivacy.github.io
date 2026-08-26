@@ -8,7 +8,7 @@ Aug 24
 
 Aug 26
 : Reconstruction Attacks
-  : [Reading](https://queue.acm.org/detail.cfm?id=3295691)
+  : [Lecture Notes](https://drive.google.com/file/d/1mxvCLBkf8NSH2FhVczLTLSIgD2freHKh/view?usp=sharing), [Reading](https://queue.acm.org/detail.cfm?id=3295691)
 
 Aug 28
 : **Recitation**{: .label .label-purple}
