@@ -14,7 +14,7 @@ Aug 28
 : **Recitation**{: .label .label-purple}
 
 Aug 31
-: Reconstruction Attacks, Part 2 <br> K-anonymity
+: Reconstruction Attacks, Part 2
   : [Reading](https://differentialprivacy.org/diffix-attack/)
 
 Sept 2
@@ -40,7 +40,7 @@ Sept 14
   : <!-- -->
 
 Sept 16
-: Definition of Differential Privacy <br> Randomized Response
+: K-anonymity <br> Definition of Differential Privacy <br> Randomized Response
   : <!-- -->
 
 Sept 18
