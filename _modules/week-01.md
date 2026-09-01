@@ -15,7 +15,7 @@ Aug 28
 
 Aug 31
 : Reconstruction Attacks, Part 2
-  : [Reading](https://differentialprivacy.org/diffix-attack/)
+  : [Lecture Notes](https://drive.google.com/file/d/1yA8XQD_WNODg1hoeD-R8kjNpELt4oXMV/view?usp=sharing), [Reading](https://differentialprivacy.org/diffix-attack/)
 
 Sept 2
 : Brief Intro to ML and Generative Models
