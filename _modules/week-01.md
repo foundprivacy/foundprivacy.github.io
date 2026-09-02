@@ -19,7 +19,7 @@ Aug 31
 
 Sept 2
 : Brief Intro to ML and Generative Models
-  : <!-- -->
+  : [Slides](https://drive.google.com/file/d/1GuminXCdFEW1qndKhinj8DcbplmGxjqG/view?usp=sharing)
 
 Sept 4
 : **Recitation**{: .label .label-purple}
