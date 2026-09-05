@@ -12,6 +12,7 @@ Aug 26
 
 Aug 28
 : **Recitation**{: .label .label-purple}
+  : Go over HW0
 
 Aug 31
 : Reconstruction Attacks, Part 2
@@ -23,6 +24,7 @@ Sept 2
 
 Sept 4
 : **Recitation**{: .label .label-purple}
+  : ML + Python Tutorial ([repo](https://github.com/gfanti/rinse-me-gently))
 
 Sept 7
 : **No Class**{: .label .label-slate} 👷 Labor Day
@@ -34,6 +36,7 @@ Sept 9
 
 Sept 11
 : **Recitation**{: .label .label-purple}
+  : No recitation
 
 Sept 14
 : Privacy Attacks 2: MI cont'd, Attribute Inference <br> **Project Phase 1 Released**{: .label .label-amber}
