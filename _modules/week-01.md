@@ -32,7 +32,7 @@ Sept 7
 
 Sept 9
 : Intro to ML (cont'd) and Privacy Attacks 1: Membership Inference
-  : [Slides](https://drive.google.com/file/d/16RX-w6LvSmCKXyXjeU_CppUYjM9RnuaU/view?usp=sharing)
+  : [Lecture Notes (PDF)](/notes/lec05-classifiers-membership-inference.pdf), [Slides](https://drive.google.com/file/d/16RX-w6LvSmCKXyXjeU_CppUYjM9RnuaU/view?usp=sharing)
 
 Sept 11
 : **Recitation**{: .label .label-purple}
