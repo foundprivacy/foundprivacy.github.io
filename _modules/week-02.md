@@ -5,6 +5,7 @@ title: Differential Privacy
 Sept 21
 : **Test 1**{: .label .label-amber}
   : <!-- -->
+
 Sept 23
 : Global Sensitivity and the Laplace Mechanism <br> **Project Phase 1 Due**{: .label .label-amber}
   : <!-- -->
