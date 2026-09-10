@@ -3,15 +3,15 @@ title: Differential Privacy
 ---
 
 Sept 21
-: **Test 1**{: .label .label-amber}
+: Global Sensitivity and the Laplace Mechanism
   : <!-- -->
 
 Sept 23
-: Global Sensitivity and the Laplace Mechanism <br> **Project Phase 1 Due**{: .label .label-amber}
+: **Test 1**{: .label .label-amber}
   : <!-- -->
 
 Sept 25
-: **Recitation**{: .label .label-purple}
+: **Recitation**{: .label .label-purple} <br> **Project Phase 1 Due**{: .label .label-amber}
 
 Sept 28
 : Laplace Mechanism <br> **Project Phase 2 Released**{: .label .label-amber}
