@@ -20,7 +20,7 @@ Aug 31
 
 Sept 2
 : Brief Intro to ML and Generative Models
-  : [Lecture Notes (PDF)](/notes/lec04-k-anonymity-ml-intro.pdf), [Slides](https://drive.google.com/file/d/1GuminXCdFEW1qndKhinj8DcbplmGxjqG/view?usp=sharing)
+  : [Lecture Notes](https://drive.google.com/file/d/1OPVoyelevWhNbNCsbOZFxs3O8a6-OpuJ/view?usp=sharing), [Slides](https://drive.google.com/file/d/1GuminXCdFEW1qndKhinj8DcbplmGxjqG/view?usp=sharing)
 
 Sept 4
 : **Recitation**{: .label .label-purple}
@@ -32,7 +32,7 @@ Sept 7
 
 Sept 9
 : Intro to ML (cont'd) and Privacy Attacks 1: Membership Inference
-  : [Lecture Notes (PDF)](/notes/lec05-classifiers-membership-inference.pdf), [Slides](https://drive.google.com/file/d/16RX-w6LvSmCKXyXjeU_CppUYjM9RnuaU/view?usp=sharing)
+  : [Lecture Notes](https://drive.google.com/file/d/1bEqaaCTAe3P0dBFpPVcJn4UXJjpAjwLd/view?usp=sharing), [Slides](https://drive.google.com/file/d/16RX-w6LvSmCKXyXjeU_CppUYjM9RnuaU/view?usp=sharing)
 
 Sept 11
 : **Recitation**{: .label .label-purple}
