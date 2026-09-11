@@ -35,8 +35,8 @@ Sept 9
   : [Lecture Notes](https://drive.google.com/file/d/1bEqaaCTAe3P0dBFpPVcJn4UXJjpAjwLd/view?usp=sharing), [Slides](https://drive.google.com/file/d/16RX-w6LvSmCKXyXjeU_CppUYjM9RnuaU/view?usp=sharing)
 
 Sept 11
-: **Recitation**{: .label .label-purple}
-  : No recitation
+: **Recitation**{: .label .label-purple} <br> **HW1 Released**{: .label .label-amber}
+  : No recitation <br> [HW1 (PDF)](https://drive.google.com/file/d/1AR4D_yrBfwHj2ehLFUmfb8NZWLL9oD_X/view?usp=sharing)
 
 Sept 14
 : Privacy Attacks 2: MI cont'd, Attribute Inference <br> **Project Phase 1 Released**{: .label .label-amber}
