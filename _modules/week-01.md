@@ -40,7 +40,7 @@ Sept 11
 
 Sept 14
 : Privacy Attacks 2: MI cont'd, Attribute Inference <br> **Project Phase 1 Released**{: .label .label-amber}
-  : <!-- -->
+  : [Slides](https://drive.google.com/file/d/1tr6wirv4xn2fyrsTSRqbreDrdkvElW-l/view?usp=sharing)
 
 Sept 16
 : K-anonymity <br> Definition of Differential Privacy <br> Randomized Response
