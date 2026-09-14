@@ -40,7 +40,7 @@ Sept 11
 
 Sept 14
 : Privacy Attacks 2: MI cont'd (LiRA, Quantile Regression), Training Data Extraction <br> **Project Phase 1 Released**{: .label .label-amber}
-  : [Slides](https://drive.google.com/file/d/1tr6wirv4xn2fyrsTSRqbreDrdkvElW-l/view?usp=sharing)
+  : [Lecture Notes](https://drive.google.com/file/d/1DOPwHIfDqHeXJbERzktL1r3UB6K-p-aO/view?usp=sharing), [Slides](https://drive.google.com/file/d/1tr6wirv4xn2fyrsTSRqbreDrdkvElW-l/view?usp=sharing)
 
 Sept 16
 : Attribute Inference <br> K-anonymity <br> Definition of Differential Privacy <br> Randomized Response
