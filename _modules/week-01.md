@@ -39,11 +39,11 @@ Sept 11
   : No recitation <br> [HW1 (PDF)](https://drive.google.com/file/d/1AR4D_yrBfwHj2ehLFUmfb8NZWLL9oD_X/view?usp=sharing)
 
 Sept 14
-: Privacy Attacks 2: MI cont'd, Attribute Inference <br> **Project Phase 1 Released**{: .label .label-amber}
+: Privacy Attacks 2: MI cont'd (LiRA, Quantile Regression), Training Data Extraction <br> **Project Phase 1 Released**{: .label .label-amber}
   : [Slides](https://drive.google.com/file/d/1tr6wirv4xn2fyrsTSRqbreDrdkvElW-l/view?usp=sharing)
 
 Sept 16
-: K-anonymity <br> Definition of Differential Privacy <br> Randomized Response
+: Attribute Inference <br> K-anonymity <br> Definition of Differential Privacy <br> Randomized Response
   : <!-- -->
 
 Sept 18
