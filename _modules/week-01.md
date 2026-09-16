@@ -44,7 +44,7 @@ Sept 14
 
 Sept 16
 : Attribute Inference <br> K-anonymity <br> Definition of Differential Privacy <br> Randomized Response
-  : <!-- -->
+  : [Lecture Notes](https://drive.google.com/file/d/1uGo3luzZSMV2KHEFgDUe-V6xmDAubuVm/view?usp=sharing), [Slides](https://drive.google.com/file/d/10GQpa9pK2c_1jGu-86gSyvs2GopPwTz8/view?usp=sharing)
 
 Sept 18
 : **Recitation**{: .label .label-purple}
