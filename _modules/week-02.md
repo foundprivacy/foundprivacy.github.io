@@ -3,7 +3,7 @@ title: Differential Privacy
 ---
 
 Sept 21
-: Global Sensitivity and the Laplace Mechanism
+: Definition of Differential Privacy / Randomized Response / Global Sensitivity
   : <!-- -->
 
 Sept 23
