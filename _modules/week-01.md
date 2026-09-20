@@ -48,3 +48,4 @@ Sept 16
 
 Sept 18
 : **Recitation**{: .label .label-purple}
+  : [HW1 Solutions (PDF)](https://drive.google.com/file/d/1QUPmHx16sDn_jgQ3DBGOnnqZpkYTLC06/view?usp=sharing)
