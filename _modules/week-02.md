@@ -11,10 +11,11 @@ Sept 23
   : <!-- -->
 
 Sept 25
-: **Recitation**{: .label .label-purple} <br> **Project Phase 1 Due**{: .label .label-amber}
+: **No Recitation**{: .label .label-slate}
+  : <!-- -->
 
 Sept 28
-: Laplace Mechanism <br> **Project Phase 2 Released**{: .label .label-amber}
+: Laplace Mechanism <br> **Project Phase 1 Due**{: .label .label-amber} <br> **Project Phase 2 Released**{: .label .label-amber}
   : <!-- -->
 
 Sept 30
