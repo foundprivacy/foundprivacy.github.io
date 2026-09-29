@@ -16,7 +16,7 @@ Sept 25
 
 Sept 28
 : Laplace Mechanism <br> **Project Phase 1 Due**{: .label .label-amber} <br> **Project Phase 2 Released**{: .label .label-amber}
-  : [Lecture Notes](https://drive.google.com/file/d/1rvfrfbteZhu_D60Tjz6h26baWdT30Erq/view?usp=sharing), [Slides](https://drive.google.com/file/d/1Cp-3hGu9xw-MYEnuqBxXc94xoXq6dfqN/view?usp=sharing)
+  : [Lecture Notes](https://drive.google.com/file/d/1rvfrfbteZhu_D60Tjz6h26baWdT30Erq/view?usp=sharing), [Slides](https://drive.google.com/file/d/1Cp-3hGu9xw-MYEnuqBxXc94xoXq6dfqN/view?usp=sharing), [Project Phase 2](https://github.com/CMU-18734-17731-2026-Fall/Project-phase-2)
 
 Sept 30
 : Properties of DP
