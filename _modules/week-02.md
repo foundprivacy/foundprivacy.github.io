@@ -20,7 +20,7 @@ Sept 28
 
 Sept 30
 : Properties of DP
-  : <!-- -->
+  : [Lecture Notes](https://drive.google.com/file/d/1TA1f8Gc0BmZ3-YskeALWgqV2TTOAkqfC/view?usp=sharing), [Slides](https://drive.google.com/file/d/1hhPB1aIIW2ojZ8Z_KrZZll1Ecy9932P0/view?usp=sharing)
 
 Oct 2
 : **Recitation**{: .label .label-purple}
