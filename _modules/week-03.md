@@ -3,7 +3,7 @@ title: Differential Privacy and ML
 ---
 
 Oct 7
-: DP-SGD
+: Approximate DP, Gaussian Mechanism
   : <!-- -->
 
 Oct 9
@@ -18,7 +18,7 @@ Oct 14
   : <!-- -->
 
 Oct 19
-: DP-SGD Continued <br> **Project Phase 2 Due**{: .label .label-amber}
+: DP-SGD <br> **Project Phase 2 Due**{: .label .label-amber}
   : <!-- -->
 
 Oct 21
