@@ -28,4 +28,4 @@ Oct 2
 
 Oct 5
 : Approximate DP, Gaussian Mechanism
-  : <!-- -->
+  : [Slides](https://drive.google.com/file/d/1PAl2GfF0jRIFwpxMCjYLlEtlb0qwNhVK/view?usp=sharing)
