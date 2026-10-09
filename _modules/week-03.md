@@ -7,7 +7,8 @@ Oct 7
   : [Slides](https://drive.google.com/file/d/1B7gD7VzTlOcsAkEJoYm2212ZcqUm0ofg/view?usp=sharing)
 
 Oct 9
-: **Recitation**{: .label .label-purple}
+: **No Recitation**{: .label .label-slate}
+  : <!-- -->
 
 Oct 12
 : **No Class**{: .label .label-slate} 🍂 Fall Break
