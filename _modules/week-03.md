@@ -3,8 +3,8 @@ title: Differential Privacy and ML
 ---
 
 Oct 7
-: Approximate DP, Gaussian Mechanism
-  : [Slides](https://drive.google.com/file/d/1B7gD7VzTlOcsAkEJoYm2212ZcqUm0ofg/view?usp=sharing)
+: Approximate DP, Gaussian Mechanism <br> **HW2 Released**{: .label .label-amber}
+  : [Slides](https://drive.google.com/file/d/1B7gD7VzTlOcsAkEJoYm2212ZcqUm0ofg/view?usp=sharing), [HW2 (PDF)](https://drive.google.com/file/d/1qQZMll_1ku7xNBB3GsMI1jQPeva0WuM2/view?usp=sharing)
 
 Oct 9
 : **No Recitation**{: .label .label-slate}
