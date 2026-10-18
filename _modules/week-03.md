@@ -19,7 +19,7 @@ Oct 14
   : <!-- -->
 
 Oct 19
-: DP-SGD <br> **Project Phase 2 Due**{: .label .label-amber}
+: DP-SGD
   : <!-- -->
 
 Oct 21
@@ -27,7 +27,7 @@ Oct 21
   : <!-- -->
 
 Oct 23
-: **Recitation**{: .label .label-purple}
+: **Recitation**{: .label .label-purple} <br> **Project Phase 2 Due**{: .label .label-amber}
 
 Oct 26
 : DP Auditing
