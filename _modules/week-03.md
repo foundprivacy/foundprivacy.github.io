@@ -19,11 +19,11 @@ Oct 14
   : <!-- -->
 
 Oct 19
-: DP-SGD
-  : <!-- -->
+: Gaussian Mechanism and DP-GD
+  : [Slides](https://drive.google.com/file/d/1107kL3H9HEVDm5IfB3KoDcAObkUAJr2z/view?usp=sharing), [Lecture Notes](https://drive.google.com/file/d/1_fc-d73JkCymMWb__y2HxdFv7WCPoik8/view?usp=sharing)
 
 Oct 21
-: Amplification by Subsampling <br> PATE
+: DP-SGD and PATE
   : <!-- -->
 
 Oct 23
