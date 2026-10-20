@@ -37,7 +37,8 @@ Oct 28
 : **Test 2**{: .label .label-amber} (through DP-SGD)
   : <!-- -->
 Oct 30
-: **Recitation**{: .label .label-purple}
+: **No Recitation**{: .label .label-slate}
+  : <!-- -->
 
 Nov 2
 : Local DP, Federated Learning
