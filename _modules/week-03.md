@@ -24,7 +24,7 @@ Oct 19
 
 Oct 21
 : DP-SGD and PATE
-  : <!-- -->
+  : [Lecture Notes](https://drive.google.com/file/d/1_fc-d73JkCymMWb__y2HxdFv7WCPoik8/view?usp=sharing)
 
 Oct 23
 : **Recitation**{: .label .label-purple} <br> **Project Phase 2 Due**{: .label .label-amber}
