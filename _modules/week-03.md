@@ -23,14 +23,14 @@ Oct 19
   : [Slides](https://drive.google.com/file/d/1107kL3H9HEVDm5IfB3KoDcAObkUAJr2z/view?usp=sharing), [Lecture Notes](https://drive.google.com/file/d/1_fc-d73JkCymMWb__y2HxdFv7WCPoik8/view?usp=sharing)
 
 Oct 21
-: DP-SGD and PATE
+: DP-SGD
   : [Lecture Notes](https://drive.google.com/file/d/1_fc-d73JkCymMWb__y2HxdFv7WCPoik8/view?usp=sharing)
 
 Oct 23
 : **Recitation**{: .label .label-purple} <br> **Project Phase 2 Due**{: .label .label-amber}
 
 Oct 26
-: DP Auditing
+: PATE and DP Auditing
   : <!-- -->
 
 Oct 28
