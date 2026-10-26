@@ -32,7 +32,7 @@ Oct 23
 
 Oct 26
 : PATE and DP Auditing <br> **Project Phase 2 Due**{: .label .label-amber}
-  : <!-- -->
+  : [Lecture Notes](https://drive.google.com/file/d/1SxUX1PTDfC2bWMNPAvUBKIzK6AJMFlGE/view?usp=sharing)
 
 Oct 28
 : **Test 2**{: .label .label-amber} (through DP-SGD)
