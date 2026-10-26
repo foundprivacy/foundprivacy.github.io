@@ -8,7 +8,7 @@ Oct 7
 
 Oct 9
 : **No Recitation**{: .label .label-slate}
-  : [HW2 Solutions (PDF)](https://drive.google.com/file/d/1CfmQGgXtxcoGq0hWfcqicptPzESZhDhv/view?usp=sharing)
+  : <!-- -->
 
 Oct 12
 : **No Class**{: .label .label-slate} 🍂 Fall Break
@@ -28,6 +28,7 @@ Oct 21
 
 Oct 23
 : **Recitation**{: .label .label-purple} <br> **Project Phase 2 Due**{: .label .label-amber}
+  : [HW2 Solutions (PDF)](https://drive.google.com/file/d/1CfmQGgXtxcoGq0hWfcqicptPzESZhDhv/view?usp=sharing)
 
 Oct 26
 : PATE and DP Auditing
