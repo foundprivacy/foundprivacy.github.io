@@ -27,11 +27,11 @@ Oct 21
   : [Lecture Notes](https://drive.google.com/file/d/1_fc-d73JkCymMWb__y2HxdFv7WCPoik8/view?usp=sharing)
 
 Oct 23
-: **Recitation**{: .label .label-purple} <br> **Project Phase 2 Due**{: .label .label-amber}
+: **Recitation**{: .label .label-purple}
   : [HW2 Solutions (PDF)](https://drive.google.com/file/d/1CfmQGgXtxcoGq0hWfcqicptPzESZhDhv/view?usp=sharing)
 
 Oct 26
-: PATE and DP Auditing
+: PATE and DP Auditing <br> **Project Phase 2 Due**{: .label .label-amber}
   : <!-- -->
 
 Oct 28
