@@ -43,5 +43,5 @@ Oct 30
   : <!-- -->
 
 Nov 2
-: Local DP, Federated Learning
-  : <!-- -->
+: Local Model of DP
+  : [Lecture Notes](https://drive.google.com/file/d/1brkrhLhHD9IZVNTHnc5xOytyaJrnvQw1/view?usp=sharing)
