@@ -3,18 +3,18 @@ title: Basic Cryptography
 ---
 
 Nov 4
-: Basic Crypto I: Public-Key Encryption and Data Release
+: Federated Learning
   : <!-- -->
 
 Nov 6
 : **Recitation**{: .label .label-purple}
 
 Nov 9
-: Basic Crypto II: Encryption (MPC or HE) for Computing ML Models
+: Basic Crypto I: Public-Key Encryption and Data Release
   : <!-- -->
 
 Nov 11
-: Amplification by Shuffling <br> MPC for Secure Aggregation
+: Basic Crypto II: Encryption (MPC or HE) for Computing ML Models
   : <!-- -->
 
 Nov 13
