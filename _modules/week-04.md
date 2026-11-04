@@ -3,8 +3,8 @@ title: Basic Cryptography
 ---
 
 Nov 4
-: Federated Learning
-  : <!-- -->
+: Privacy amplification via shuffling and Federated Learning
+  : [Lecture Notes](https://drive.google.com/file/d/1UMFDz4AD80v1fIvQyoV0O3t8_GYQPBk-/view?usp=sharing)
 
 Nov 6
 : **Recitation**{: .label .label-purple}
