@@ -11,7 +11,7 @@ Nov 6
 
 Nov 9
 : Basic Crypto I: Public-Key Encryption and Data Release
-  : <!-- -->
+  : [Slides](https://drive.google.com/file/d/1R5GnonnyyOtsIPt1fAyHPHbJU83uuwye/view?usp=sharing)
 
 Nov 11
 : Basic Crypto II: Encryption (MPC or HE) for Computing ML Models
