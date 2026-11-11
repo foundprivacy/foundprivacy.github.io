@@ -14,7 +14,7 @@ Nov 9
   : [Slides](https://drive.google.com/file/d/1R5GnonnyyOtsIPt1fAyHPHbJU83uuwye/view?usp=sharing)
 
 Nov 11
-: Basic Crypto II: Encryption (MPC or HE) for Computing ML Models
+: Basic Crypto II: Trust, Quantum Computers, and Computing on Protected Data
   : [Slides](https://drive.google.com/file/d/1drfWDwo1n48F3UDwKtPdPt_6mO4dCtCx/view?usp=sharing)
 
 Nov 13
