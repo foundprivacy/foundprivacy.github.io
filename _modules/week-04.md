@@ -10,7 +10,7 @@ Nov 6
 : **Recitation**{: .label .label-purple}
 
 Nov 9
-: Basic Crypto I: Public-Key Encryption and Data Release
+: Basic Crypto I: From the One-Time Pad to Public-Key Encryption
   : [Slides](https://drive.google.com/file/d/1R5GnonnyyOtsIPt1fAyHPHbJU83uuwye/view?usp=sharing)
 
 Nov 11
