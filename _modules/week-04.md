@@ -15,7 +15,7 @@ Nov 9
 
 Nov 11
 : Basic Crypto II: Encryption (MPC or HE) for Computing ML Models
-  : <!-- -->
+  : [Slides](https://drive.google.com/file/d/1drfWDwo1n48F3UDwKtPdPt_6mO4dCtCx/view?usp=sharing)
 
 Nov 13
 : **Recitation**{: .label .label-purple}
