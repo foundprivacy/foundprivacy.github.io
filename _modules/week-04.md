@@ -21,8 +21,8 @@ Nov 13
 : **Recitation**{: .label .label-purple}
 
 Nov 16
-: Guest Lecture <br> Required: Adam Smith CyLab Lecture, 12-1 <br> **Project Phase 3 Pre-Report Due**{: .label .label-amber}
-  : **CyLab Seminar** — Monday, November 16, 2026 at 12 Noon ET <br> *Talk Title:* Private Analysis of Network Data <br> *Speaker:* Adam Smith <br> *Location:* Zoom and Panther Hollow Conference Room, CIC 4105
+: ~~Guest Lecture (Adam Smith CyLab Lecture)~~ **Cancelled**{: .label .label-red} <br> **Project Phase 3 Pre-Report Due**{: .label .label-amber}
+  : <!-- -->
 
 Nov 18
 : Review of the Semester
