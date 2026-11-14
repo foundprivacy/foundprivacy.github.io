@@ -6,6 +6,10 @@ Nov 23
 : **Test 3**{: .label .label-amber} (through Crypto / MPC)
   : <!-- -->
 
+Nov 24
+: **Project Phase 3 Pre-Report Due**{: .label .label-amber}
+  : <!-- -->
+
 Nov 25
 : **No Class**{: .label .label-slate} 🦃 Thanksgiving Break
   : <!-- -->

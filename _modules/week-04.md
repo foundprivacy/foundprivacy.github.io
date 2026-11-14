@@ -22,7 +22,7 @@ Nov 13
   : [HW3 (PDF)](/hw/hw03.pdf)
 
 Nov 16
-: ~~Guest Lecture (Adam Smith CyLab Lecture)~~ **Cancelled**{: .label .label-red} <br> **Project Phase 3 Pre-Report Due**{: .label .label-amber}
+: ~~Guest Lecture (Adam Smith CyLab Lecture)~~ **Cancelled**{: .label .label-red}
   : <!-- -->
 
 Nov 18
