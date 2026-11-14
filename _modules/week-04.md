@@ -21,8 +21,8 @@ Nov 13
 : **Recitation**{: .label .label-purple}
 
 Nov 16
-: ~~Guest Lecture (Adam Smith CyLab Lecture)~~ **Cancelled**{: .label .label-red} <br> **Project Phase 3 Pre-Report Due**{: .label .label-amber}
-  : <!-- -->
+: ~~Guest Lecture (Adam Smith CyLab Lecture)~~ **Cancelled**{: .label .label-red} <br> **Project Phase 3 Pre-Report Due**{: .label .label-amber} <br> **HW3 Released**{: .label .label-amber}
+  : [HW3 (PDF)](/hw/hw03.pdf)
 
 Nov 18
 : Review of the Semester
